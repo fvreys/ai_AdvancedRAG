@@ -1,0 +1,999 @@
+Order Date,Order ID,Product ID,Product Name,Product Category,Purchase Address,Price Each
+2025-04-15,572e,6a8e,iPhone,Phones and Accessories,"944 Walnut St, Boston, MA 02215",700.0
+2025-04-15,b55f,bc26,iPhone,Phones and Accessories,"944 Walnut St, Boston, MA 02215",700.0
+2025-04-15,23c3,e745,Lightning Charging Cable,Accessories,"185 Maple St, Portland, OR 97035",14.95
+2025-04-15,b8be,19cf,Wired Headphones,Phones and Accessories,"538 Adams St, San Francisco, CA 94016",11.99
+2025-04-15,34e6,6ab6,27in FHD Monitor,Sports,"738 10th St, Los Angeles, CA 90001",149.99
+2025-04-15,93e7,b248,Wired Headphones,Electronics,"387 10th St, Austin, TX 73301",11.99
+2025-04-15,ec7a,ea79,AAA Batteries (4-pack),Accessories,"775 Willow St, San Francisco, CA 94016",2.99
+2025-04-15,0ab4,3f97,27in 4K Gaming Monitor,Phones and Accessories,"979 Park St, Los Angeles, CA 90001",389.99
+2025-04-15,4f3f,d438,USB-C Charging Cable,Phones and Accessories,"181 6th St, San Francisco, CA 94016",11.95
+2025-04-15,db36,1c30,Bose SoundSport Headphones,Electronics,"867 Willow St, Los Angeles, CA 90001",99.99
+2025-04-15,8b7b,ed4c,Apple Airpods Headphones,Electronics,"657 Johnson St, San Francisco, CA 94016",150.0
+2025-04-15,0819,e31f,Apple Airpods Headphones,Phones and Accessories,"492 Walnut St, San Francisco, CA 94016",150.0
+2025-04-15,6dfe,1972,Macbook Pro Laptop,Phones and Accessories,"322 6th St, San Francisco, CA 94016",1700.0
+2025-04-15,7c74,1761,AAA Batteries (4-pack),Phones and Accessories,"618 7th St, Los Angeles, CA 90001",2.99
+2025-04-15,9ac3,26c6,27in FHD Monitor,Phones and Accessories,"512 Wilson St, San Francisco, CA 94016",149.99
+2025-04-15,ebf5,9980,Flat-screen TV,Electronics,"363 Spruce St, Austin, TX 73301",300.0
+2025-04-15,dea5,50a4,27in FHD Monitor,Accessories,"440 Cedar St, Portland, OR 97035",149.99
+2025-04-15,6ac7,f1ff,Wireless buds,Accessories,"471 Center St, Los Angeles, CA 90001",400.0
+2025-04-15,065e,de0b,Apple Airpods Headphones,Accessories,"414 Walnut St, Boston, MA 02215",150.0
+2025-04-15,fdd7,1cbe,USB-C Charging Cable,Sports,"220 9th St, Los Angeles, CA 90001",11.95
+2025-04-15,08dd,0551,AA Batteries (4-pack),Accessories,"385 11th St, Atlanta, GA 30301",3.84
+2025-04-15,39ca,a608,AAA Batteries (4-pack),Electronics,"238 Sunset St, Seattle, WA 98101",2.99
+2025-04-15,e6c6,aae7,USB-C Charging Cable,Accessories,"764 11th St, Los Angeles, CA 90001",11.95
+2025-04-15,a92e,c527,Google Phone,Electronics,"675 Washington St, Portland, OR 97035",600.0
+2025-04-15,ce58,ba1b,Apple Airpods Headphones,Sports,"338 Highland St, San Francisco, CA 94016",150.0
+2025-04-15,e352,2685,AA Batteries (4-pack),Sports,"820 1st St, San Francisco, CA 94016",3.84
+2025-04-15,eabf,e3eb,AAA Batteries (4-pack),Accessories,"920 Adams St, San Francisco, CA 94016",2.99
+2025-04-15,51a7,0d65,AAA Batteries (4-pack),Accessories,"293 Hill St, San Francisco, CA 94016",2.99
+2025-04-15,78a9,7b87,USB-C Charging Cable,Sports,"840 Lincoln St, Atlanta, GA 30301",11.95
+2025-04-15,9c30,046d,AAA Batteries (4-pack),Sports,"291 Lincoln St, San Francisco, CA 94016",2.99
+2025-04-15,76a4,099a,Bose SoundSport Headphones,Phones and Accessories,"640 Spruce St, Boston, MA 02215",99.99
+2025-04-15,96ac,d0c3,Apple Airpods Headphones,Phones and Accessories,"937 Highland St, New York City, NY 10001",150.0
+2025-04-15,0e17,64fe,Apple Airpods Headphones,Accessories,"853 Ridge St, Boston, MA 02215",150.0
+2025-04-15,7029,5c43,27in 4K Gaming Monitor,Sports,"834 4th St, Dallas, TX 75001",389.99
+2025-04-15,db37,4497,Apple Airpods Headphones,Sports,"649 Sunset St, Los Angeles, CA 90001",150.0
+2025-04-15,805b,edc3,AA Batteries (4-pack),Phones and Accessories,"611 Elm St, New York City, NY 10001",3.84
+2025-04-15,d6eb,4775,27in 4K Gaming Monitor,Sports,"812 Jefferson St, Los Angeles, CA 90001",389.99
+2025-04-15,e27e,bfc1,Wired Headphones,Phones and Accessories,"469 Hill St, San Francisco, CA 94016",11.99
+2025-04-15,ac62,2a03,USB-C Charging Cable,Electronics,"90 13th St, Boston, MA 02215",11.95
+2025-04-15,5a00,c039,AAA Batteries (4-pack),Sports,"818 Lincoln St, New York City, NY 10001",2.99
+2025-04-15,9495,b343,Wired Headphones,Sports,"994 13th St, Boston, MA 02215",11.99
+2025-04-15,67c3,6414,USB-C Charging Cable,Sports,"8 Jackson St, Los Angeles, CA 90001",11.95
+2025-04-15,4ac9,5e06,USB-C Charging Cable,Sports,"610 Walnut St, Austin, TX 73301",11.95
+2025-04-15,2668,f1d1,Wired Headphones,Phones and Accessories,"610 Walnut St, Austin, TX 73301",11.99
+2025-04-15,b4de,c6f5,Lightning Charging Cable,Sports,"63 Cherry St, Los Angeles, CA 90001",14.95
+2025-04-15,432e,cd1c,Bose SoundSport Headphones,Electronics,"370 Lakeview St, Austin, TX 73301",99.99
+2025-04-15,9bd5,1ee0,Lightning Charging Cable,Accessories,"100 Cherry St, New York City, NY 10001",14.95
+2025-04-15,cf71,374d,Lightning Charging Cable,Sports,"938 14th St, Boston, MA 02215",14.95
+2025-04-15,028e,a3d7,AAA Batteries (4-pack),Electronics,"530 7th St, Los Angeles, CA 90001",2.99
+2025-04-15,de63,cf6f,Lightning Charging Cable,Accessories,"274 2nd St, Atlanta, GA 30301",14.95
+2025-04-15,665c,4563,Wireless buds,Sports,"125 Center St, New York City, NY 10001",400.0
+2025-04-15,cca5,a2b1,Flat-screen TV,Electronics,"68 Hickory St, Seattle, WA 98101",300.0
+2025-04-15,1cb3,7f14,Wired Headphones,Phones and Accessories,"462 1st St, Los Angeles, CA 90001",11.99
+2025-04-15,efc1,4c05,AAA Batteries (4-pack),Accessories,"447 Cedar St, Seattle, WA 98101",2.99
+2025-04-15,2385,8666,27in 4K Gaming Monitor,Phones and Accessories,"505 Hickory St, Dallas, TX 75001",389.99
+2025-04-15,f554,e0ec,Bose SoundSport Headphones,Accessories,"386 Elm St, San Francisco, CA 94016",99.99
+2025-04-15,3002,d2d2,Macbook Pro Laptop,Sports,"789 Washington St, Los Angeles, CA 90001",1700.0
+2025-04-15,a678,b8fc,20in Monitor,Accessories,"534 Elm St, Atlanta, GA 30301",109.99
+2025-04-15,6b25,b1e5,Apple Airpods Headphones,Phones and Accessories,"4 1st St, Los Angeles, CA 90001",150.0
+2025-04-15,fae4,0891,AA Batteries (4-pack),Phones and Accessories,"4 1st St, Los Angeles, CA 90001",3.84
+2025-04-15,df2a,df17,AA Batteries (4-pack),Sports,"632 13th St, Los Angeles, CA 90001",3.84
+2025-04-15,af3e,5370,AAA Batteries (4-pack),Phones and Accessories,"847 Ridge St, Los Angeles, CA 90001",2.99
+2025-04-15,2216,6b03,USB-C Charging Cable,Sports,"880 Washington St, Boston, MA 02215",11.95
+2025-04-15,b1e2,53a4,Bose SoundSport Headphones,Electronics,"907 Highland St, San Francisco, CA 94016",99.99
+2025-04-15,fdf3,f3e3,AA Batteries (4-pack),Phones and Accessories,"898 Lakeview St, Austin, TX 73301",3.84
+2025-04-15,813e,94df,USB-C Charging Cable,Electronics,"889 Cedar St, Atlanta, GA 30301",11.95
+2025-04-15,7537,7254,Lightning Charging Cable,Sports,"566 Highland St, San Francisco, CA 94016",14.95
+2025-04-15,9acf,2dd1,Lightning Charging Cable,Phones and Accessories,"81 10th St, Dallas, TX 75001",14.95
+2025-04-15,f839,7362,AAA Batteries (4-pack),Accessories,"836 Hill St, Dallas, TX 75001",2.99
+2025-04-15,423b,be15,Apple Airpods Headphones,Phones and Accessories,"121 Cherry St, Boston, MA 02215",150.0
+2025-04-15,1945,712e,Apple Airpods Headphones,Sports,"867 Hill St, New York City, NY 10001",150.0
+2025-04-15,0afc,0ec5,AAA Batteries (4-pack),Accessories,"90 14th St, Portland, OR 97035",2.99
+2025-04-15,d7ca,d162,AA Batteries (4-pack),Sports,"313 14th St, Seattle, WA 98101",3.84
+2025-04-15,26a0,2ea3,USB-C Charging Cable,Sports,"363 Willow St, Los Angeles, CA 90001",11.95
+2025-04-15,5464,e623,AAA Batteries (4-pack),Phones and Accessories,"756 Wilson St, Austin, TX 73301",2.99
+2025-04-15,c623,8487,Wired Headphones,Sports,"458 Forest St, San Francisco, CA 94016",11.99
+2025-04-15,293b,a106,AAA Batteries (4-pack),Electronics,"895 Johnson St, Boston, MA 02215",2.99
+2025-04-15,536a,952e,27in FHD Monitor,Phones and Accessories,"926 Cedar St, Portland, OR 97035",149.99
+2025-04-15,5c34,9738,AAA Batteries (4-pack),Electronics,"423 Elm St, San Francisco, CA 94016",2.99
+2025-04-15,ec21,d10c,AAA Batteries (4-pack),Accessories,"679 8th St, San Francisco, CA 94016",2.99
+2025-04-15,be1b,7746,34in Ultra-wide Monitor,Electronics,"223 North St, Atlanta, GA 30301",379.99
+2025-04-15,c88b,cb52,Apple Airpods Headphones,Phones and Accessories,"741 11th St, San Francisco, CA 94016",150.0
+2025-04-15,1c1e,921f,Lightning Charging Cable,Phones and Accessories,"38 Johnson St, Los Angeles, CA 90001",14.95
+2025-04-15,48bb,4ada,Macbook Pro Laptop,Sports,"700 Jefferson St, New York City, NY 10001",1700.0
+2025-04-15,ce14,4e0a,USB-C Charging Cable,Electronics,"842 8th St, Seattle, WA 98101",11.95
+2025-04-15,df92,6009,AAA Batteries (4-pack),Accessories,"235 South St, Seattle, WA 98101",2.99
+2025-04-15,93ee,8ebc,27in FHD Monitor,Phones and Accessories,"875 Meadow St, New York City, NY 10001",149.99
+2025-04-15,e536,75d2,Bose SoundSport Headphones,Accessories,"789 Lakeview St, Boston, MA 02215",99.99
+2025-04-15,e5ce,cd93,Bose SoundSport Headphones,Accessories,"548 Maple St, Boston, MA 02215",99.99
+2025-04-15,dd2e,4b05,AA Batteries (4-pack),Electronics,"326 12th St, Los Angeles, CA 90001",3.84
+2025-04-15,0998,8c6e,Bose SoundSport Headphones,Accessories,"207 8th St, Los Angeles, CA 90001",99.99
+2025-04-15,3488,a410,AAA Batteries (4-pack),Sports,"816 Lake St, Boston, MA 02215",2.99
+2025-04-15,40b8,71fe,USB-C Charging Cable,Electronics,"240 River St, New York City, NY 10001",11.95
+2025-04-15,a2c1,73ca,USB-C Charging Cable,Phones and Accessories,"851 Maple St, San Francisco, CA 94016",11.95
+2025-04-15,735f,c984,Bose SoundSport Headphones,Electronics,"880 Lake St, Austin, TX 73301",99.99
+2025-04-15,3dd2,ebdf,Google Phone,Electronics,"131 Center St, San Francisco, CA 94016",600.0
+2025-04-15,cf02,da16,USB-C Charging Cable,Sports,"238 Washington St, Los Angeles, CA 90001",11.95
+2025-04-15,5dd5,caf6,ThinkPad Laptop,Accessories,"736 5th St, Seattle, WA 98101",999.99
+2025-04-15,ad56,a556,USB-C Charging Cable,Electronics,"122 5th St, Portland, ME 04101",11.95
+2025-04-15,dace,b347,Wired Headphones,Accessories,"391 5th St, Portland, OR 97035",11.99
+2025-04-15,963e,a0ed,Flat-screen TV,Electronics,"299 Park St, San Francisco, CA 94016",300.0
+2025-04-15,095d,02d4,USB-C Charging Cable,Phones and Accessories,"207 7th St, Los Angeles, CA 90001",11.95
+2025-04-15,1537,8432,27in FHD Monitor,Accessories,"554 10th St, Los Angeles, CA 90001",149.99
+2025-04-15,4dc2,c950,USB-C Charging Cable,Accessories,"459 4th St, San Francisco, CA 94016",11.95
+2025-04-15,47f2,fcb6,AAA Batteries (4-pack),Accessories,"174 4th St, Los Angeles, CA 90001",2.99
+2025-04-15,78d8,f580,iPhone,Phones and Accessories,"811 Hickory St, Portland, OR 97035",700.0
+2025-04-15,ab17,29c9,Bose SoundSport Headphones,Electronics,"947 Church St, San Francisco, CA 94016",99.99
+2025-04-15,d7c4,d49d,AAA Batteries (4-pack),Accessories,"542 4th St, Dallas, TX 75001",2.99
+2025-04-15,8d15,6d1d,AAA Batteries (4-pack),Sports,"539 Lakeview St, Dallas, TX 75001",2.99
+2025-04-15,7ca5,84b7,Lightning Charging Cable,Electronics,"710 Johnson St, Boston, MA 02215",14.95
+2025-04-15,3e38,ea97,LG Dryer,Phones and Accessories,"844 Walnut St, Austin, TX 73301",600.0
+2025-04-15,cc90,5672,Wired Headphones,Electronics,"119 9th St, Seattle, WA 98101",11.99
+2025-04-15,9b1b,30d5,Bose SoundSport Headphones,Sports,"157 1st St, New York City, NY 10001",99.99
+2025-04-15,ab9b,6145,Apple Airpods Headphones,Sports,"443 Washington St, Portland, OR 97035",150.0
+2025-04-15,8540,61d0,USB-C Charging Cable,Electronics,"398 5th St, San Francisco, CA 94016",11.95
+2025-04-15,dc36,8586,Apple Airpods Headphones,Sports,"285 Cherry St, Boston, MA 02215",150.0
+2025-04-15,a9a3,329f,AA Batteries (4-pack),Accessories,"885 Walnut St, Atlanta, GA 30301",3.84
+2025-04-15,73ab,e0db,USB-C Charging Cable,Phones and Accessories,"493 5th St, Portland, OR 97035",11.95
+2025-04-15,ba6d,91ec,Lightning Charging Cable,Phones and Accessories,"886 10th St, New York City, NY 10001",14.95
+2025-04-15,7ad0,c430,Lightning Charging Cable,Phones and Accessories,"804 River St, San Francisco, CA 94016",14.95
+2025-04-15,9f5f,0670,USB-C Charging Cable,Electronics,"865 Church St, San Francisco, CA 94016",11.95
+2025-04-15,f398,d510,Lightning Charging Cable,Phones and Accessories,"800 4th St, Los Angeles, CA 90001",14.95
+2025-04-15,26f0,002c,USB-C Charging Cable,Phones and Accessories,"870 Cherry St, New York City, NY 10001",11.95
+2025-04-15,11f7,5f5d,Bose SoundSport Headphones,Electronics,"869 Hill St, Atlanta, GA 30301",99.99
+2025-04-15,e74d,dc60,27in 4K Gaming Monitor,Electronics,"674 Main St, Dallas, TX 75001",389.99
+2025-04-15,1dbe,67f2,Lightning Charging Cable,Phones and Accessories,"336 1st St, Boston, MA 02215",14.95
+2025-04-15,a096,b32c,Lightning Charging Cable,Electronics,"850 River St, Atlanta, GA 30301",14.95
+2025-04-15,e367,d737,Lightning Charging Cable,Accessories,"911 Madison St, San Francisco, CA 94016",14.95
+2025-04-15,849c,e36b,AAA Batteries (4-pack),Electronics,"383 11th St, Seattle, WA 98101",2.99
+2025-04-15,af64,f360,Macbook Pro Laptop,Accessories,"263 Meadow St, Los Angeles, CA 90001",1700.0
+2025-04-15,3277,d842,Apple Airpods Headphones,Electronics,"181 Lakeview St, Portland, OR 97035",150.0
+2025-04-15,e00f,ca6e,Lightning Charging Cable,Accessories,"392 Cherry St, Atlanta, GA 30301",14.95
+2025-04-15,d2fb,1fed,Wired Headphones,Sports,"921 Highland St, Dallas, TX 75001",11.99
+2025-04-15,8fda,e077,AA Batteries (4-pack),Electronics,"657 Lincoln St, Dallas, TX 75001",3.84
+2025-04-15,8d8c,444a,Wireless buds,Accessories,"20 Dogwood St, New York City, NY 10001",400.0
+2025-04-15,ca94,6cb1,Wired Headphones,Electronics,"20 Dogwood St, New York City, NY 10001",11.99
+2025-04-15,786f,fa68,Flat-screen TV,Sports,"803 Church St, Seattle, WA 98101",300.0
+2025-04-15,3e8d,e21a,27in 4K Gaming Monitor,Sports,"23 13th St, San Francisco, CA 94016",389.99
+2025-04-15,2040,8718,USB-C Charging Cable,Accessories,"387 Hill St, Los Angeles, CA 90001",11.95
+2025-04-15,3b26,5ffe,Lightning Charging Cable,Phones and Accessories,"785 9th St, San Francisco, CA 94016",14.95
+2025-04-15,e1ab,f8ce,AAA Batteries (4-pack),Sports,"375 Center St, Seattle, WA 98101",2.99
+2025-04-15,f33b,c9af,Lightning Charging Cable,Electronics,"685 West St, Atlanta, GA 30301",14.95
+2025-04-15,b770,09db,AAA Batteries (4-pack),Electronics,"134 Hickory St, Portland, ME 04101",2.99
+2025-04-15,dd13,cf91,27in FHD Monitor,Accessories,"82 Hickory St, San Francisco, CA 94016",149.99
+2025-04-15,ee42,5fca,Wired Headphones,Phones and Accessories,"386 12th St, Boston, MA 02215",11.99
+2025-04-15,65be,80f3,27in 4K Gaming Monitor,Phones and Accessories,"49 Center St, Los Angeles, CA 90001",389.99
+2025-04-15,8f15,3731,Wired Headphones,Accessories,"32 West St, Los Angeles, CA 90001",11.99
+2025-04-15,681d,5a05,Wired Headphones,Sports,"711 11th St, San Francisco, CA 94016",11.99
+2025-04-15,47ff,e26f,USB-C Charging Cable,Electronics,"777 North St, Boston, MA 02215",11.95
+2025-04-15,da91,f9a9,AA Batteries (4-pack),Sports,"378 Center St, San Francisco, CA 94016",3.84
+2025-04-15,ba12,5106,USB-C Charging Cable,Electronics,"868 14th St, Los Angeles, CA 90001",11.95
+2025-04-15,d12e,f8fd,Bose SoundSport Headphones,Sports,"336 Jackson St, Los Angeles, CA 90001",99.99
+2025-04-15,9560,324e,AAA Batteries (4-pack),Sports,"613 Ridge St, Dallas, TX 75001",2.99
+2025-04-15,cb67,86a4,AAA Batteries (4-pack),Accessories,"418 11th St, Boston, MA 02215",2.99
+2025-04-15,2710,d8ff,Google Phone,Electronics,"223 Jackson St, Boston, MA 02215",600.0
+2025-04-15,f724,ef73,USB-C Charging Cable,Accessories,"223 Jackson St, Boston, MA 02215",11.95
+2025-04-15,cf9d,a651,Macbook Pro Laptop,Sports,"502 Walnut St, Atlanta, GA 30301",1700.0
+2025-04-15,98dd,ba44,Lightning Charging Cable,Accessories,"692 13th St, New York City, NY 10001",14.95
+2025-04-15,88f1,7346,AAA Batteries (4-pack),Phones and Accessories,"807 Jackson St, San Francisco, CA 94016",2.99
+2025-04-15,40e0,1552,Lightning Charging Cable,Accessories,"24 Park St, Dallas, TX 75001",14.95
+2025-04-15,a296,5e59,AA Batteries (4-pack),Accessories,"176 Church St, Los Angeles, CA 90001",3.84
+2025-04-15,193e,e68b,Wired Headphones,Sports,"667 Park St, New York City, NY 10001",11.99
+2025-04-15,3574,0017,Bose SoundSport Headphones,Accessories,"375 Johnson St, New York City, NY 10001",99.99
+2025-04-15,9244,4cb2,Apple Airpods Headphones,Phones and Accessories,"755 Cherry St, Seattle, WA 98101",150.0
+2025-04-15,df11,4a78,USB-C Charging Cable,Electronics,"240 Meadow St, Boston, MA 02215",11.95
+2025-04-15,dd78,696f,iPhone,Electronics,"534 12th St, San Francisco, CA 94016",700.0
+2025-04-15,4793,293b,AAA Batteries (4-pack),Sports,"790 Hickory St, Portland, ME 04101",2.99
+2025-04-15,b225,f0a7,USB-C Charging Cable,Sports,"141 Elm St, San Francisco, CA 94016",11.95
+2025-04-15,9027,f4d5,Lightning Charging Cable,Accessories,"940 8th St, New York City, NY 10001",14.95
+2025-04-15,0f10,c2c7,AAA Batteries (4-pack),Electronics,"33 Jackson St, Dallas, TX 75001",2.99
+2025-04-15,41bd,a295,ThinkPad Laptop,Accessories,"830 Walnut St, Atlanta, GA 30301",999.99
+2025-04-15,4799,7d9d,Lightning Charging Cable,Phones and Accessories,"215 Park St, New York City, NY 10001",14.95
+2025-04-15,65ad,b8c1,Apple Airpods Headphones,Sports,"34 Cedar St, Portland, OR 97035",150.0
+2025-04-15,6a1e,160a,AAA Batteries (4-pack),Electronics,"939 Lakeview St, Atlanta, GA 30301",2.99
+2025-04-15,302f,6c44,Lightning Charging Cable,Phones and Accessories,"216 Meadow St, Boston, MA 02215",14.95
+2025-04-15,980f,8bff,AA Batteries (4-pack),Phones and Accessories,"200 14th St, San Francisco, CA 94016",3.84
+2025-04-15,29ad,02c6,Wired Headphones,Accessories,"247 Forest St, Los Angeles, CA 90001",11.99
+2025-04-15,b117,b720,USB-C Charging Cable,Electronics,"110 13th St, Seattle, WA 98101",11.95
+2025-04-15,0fa9,9153,Apple Airpods Headphones,Sports,"946 12th St, Portland, ME 04101",150.0
+2025-04-15,2524,6d87,Apple Airpods Headphones,Sports,"103 14th St, San Francisco, CA 94016",150.0
+2025-04-15,85be,c1ca,Bose SoundSport Headphones,Electronics,"36 Highland St, Portland, ME 04101",99.99
+2025-04-15,31a2,1ff2,Bose SoundSport Headphones,Phones and Accessories,"613 Main St, Atlanta, GA 30301",99.99
+2025-04-15,dd50,be2e,AA Batteries (4-pack),Electronics,"451 River St, Portland, OR 97035",3.84
+2025-04-15,863b,aab6,AA Batteries (4-pack),Accessories,"118 Church St, New York City, NY 10001",3.84
+2025-04-15,6aa4,3deb,USB-C Charging Cable,Sports,"333 7th St, Portland, OR 97035",11.95
+2025-04-15,3ca3,2cf1,Flat-screen TV,Electronics,"216 Willow St, Austin, TX 73301",300.0
+2025-04-15,e04f,96f6,USB-C Charging Cable,Phones and Accessories,"127 Madison St, Los Angeles, CA 90001",11.95
+2025-04-15,d754,3b66,27in 4K Gaming Monitor,Electronics,"566 Park St, New York City, NY 10001",389.99
+2025-04-15,794c,b3d9,USB-C Charging Cable,Electronics,"940 West St, Los Angeles, CA 90001",11.95
+2025-04-15,28a9,ac04,Bose SoundSport Headphones,Sports,"831 Sunset St, San Francisco, CA 94016",99.99
+2025-04-15,7638,1eff,Bose SoundSport Headphones,Accessories,"133 1st St, Los Angeles, CA 90001",99.99
+2025-04-15,5582,5f8b,AAA Batteries (4-pack),Sports,"941 Lincoln St, Los Angeles, CA 90001",2.99
+2025-04-15,0f8c,2cfc,27in FHD Monitor,Sports,"201 Center St, New York City, NY 10001",149.99
+2025-04-15,39f0,a634,Bose SoundSport Headphones,Sports,"529 Park St, Portland, OR 97035",99.99
+2025-04-15,4dd5,7c46,20in Monitor,Phones and Accessories,"331 Chestnut St, Dallas, TX 75001",109.99
+2025-04-15,d876,38ed,34in Ultra-wide Monitor,Electronics,"922 2nd St, Los Angeles, CA 90001",379.99
+2025-04-15,c2ea,abd5,AA Batteries (4-pack),Phones and Accessories,"237 Forest St, Austin, TX 73301",3.84
+2025-04-15,a17a,df6e,Macbook Pro Laptop,Phones and Accessories,"442 South St, Dallas, TX 75001",1700.0
+2025-04-15,b03c,c178,Wired Headphones,Electronics,"310 8th St, Los Angeles, CA 90001",11.99
+2025-04-15,9e19,9fd1,Wired Headphones,Sports,"139 Church St, Atlanta, GA 30301",11.99
+2025-04-15,0f34,29cc,AA Batteries (4-pack),Accessories,"337 North St, Austin, TX 73301",3.84
+2025-04-15,4337,59b8,Google Phone,Phones and Accessories,"90 1st St, San Francisco, CA 94016",600.0
+2025-04-15,8fbe,2d00,Google Phone,Sports,"235 Walnut St, New York City, NY 10001",600.0
+2025-04-15,dd88,5103,AA Batteries (4-pack),Electronics,"738 Dogwood St, Los Angeles, CA 90001",3.84
+2025-04-15,3af9,8661,AA Batteries (4-pack),Accessories,"920 Center St, San Francisco, CA 94016",3.84
+2025-04-15,a178,55f7,27in 4K Gaming Monitor,Electronics,"304 Park St, Dallas, TX 75001",389.99
+2025-04-15,6470,6d33,iPhone,Electronics,"855 11th St, Seattle, WA 98101",700.0
+2025-04-15,1193,3b15,27in 4K Gaming Monitor,Accessories,"33 Dogwood St, New York City, NY 10001",389.99
+2025-04-15,81c5,54c6,Google Phone,Sports,"463 10th St, Atlanta, GA 30301",600.0
+2025-04-15,47af,4347,Apple Airpods Headphones,Sports,"961 1st St, Los Angeles, CA 90001",150.0
+2025-04-15,4317,6547,USB-C Charging Cable,Accessories,"190 South St, Austin, TX 73301",11.95
+2025-04-15,0916,1d17,Lightning Charging Cable,Sports,"195 Chestnut St, San Francisco, CA 94016",14.95
+2025-04-15,e23b,a5c8,Wired Headphones,Accessories,"610 South St, Los Angeles, CA 90001",11.99
+2025-04-15,94cf,d15b,27in 4K Gaming Monitor,Sports,"608 13th St, New York City, NY 10001",389.99
+2025-04-15,d1db,90af,Lightning Charging Cable,Electronics,"789 4th St, Los Angeles, CA 90001",14.95
+2025-04-15,d15c,0142,Apple Airpods Headphones,Electronics,"795 Hickory St, Atlanta, GA 30301",150.0
+2025-04-15,f415,3de8,Google Phone,Sports,"947 10th St, Boston, MA 02215",600.0
+2025-04-15,ba0d,e4ad,34in Ultra-wide Monitor,Phones and Accessories,"179 Highland St, Seattle, WA 98101",379.99
+2025-04-15,aab2,7d1a,LG Washing Machine,Electronics,"382 Main St, Seattle, WA 98101",600.0
+2025-04-15,996f,81f3,iPhone,Electronics,"326 Maple St, Los Angeles, CA 90001",700.0
+2025-04-15,8876,a2f0,Lightning Charging Cable,Accessories,"991 Adams St, Los Angeles, CA 90001",14.95
+2025-04-15,a663,e57c,Lightning Charging Cable,Sports,"511 Maple St, San Francisco, CA 94016",14.95
+2025-04-15,bbba,0262,iPhone,Electronics,"23 Cherry St, Atlanta, GA 30301",700.0
+2025-04-15,47ab,064c,Wired Headphones,Electronics,"724 Hickory St, Los Angeles, CA 90001",11.99
+2025-04-15,cfb1,0f68,27in FHD Monitor,Phones and Accessories,"240 Maple St, Dallas, TX 75001",149.99
+2025-04-15,45b7,99cb,Google Phone,Electronics,"17 Dogwood St, San Francisco, CA 94016",600.0
+2025-04-15,3e94,d7b5,USB-C Charging Cable,Accessories,"853 Walnut St, Boston, MA 02215",11.95
+2025-04-15,8cc1,1f67,AAA Batteries (4-pack),Phones and Accessories,"590 Jackson St, Los Angeles, CA 90001",2.99
+2025-04-15,cb62,6dcb,AA Batteries (4-pack),Sports,"212 Lincoln St, New York City, NY 10001",3.84
+2025-04-15,9f1e,ac59,Apple Airpods Headphones,Electronics,"401 Chestnut St, Los Angeles, CA 90001",150.0
+2025-04-15,559e,97a7,AAA Batteries (4-pack),Accessories,"57 11th St, Austin, TX 73301",2.99
+2025-04-15,3d5f,9362,Bose SoundSport Headphones,Phones and Accessories,"264 River St, Austin, TX 73301",99.99
+2025-04-15,3dcf,de83,AAA Batteries (4-pack),Phones and Accessories,"324 7th St, Austin, TX 73301",2.99
+2025-04-15,91b2,f7bb,Flat-screen TV,Accessories,"252 Sunset St, New York City, NY 10001",300.0
+2025-04-15,8121,016e,Lightning Charging Cable,Electronics,"718 Walnut St, San Francisco, CA 94016",14.95
+2025-04-15,26bf,407e,34in Ultra-wide Monitor,Sports,"400 Lakeview St, Seattle, WA 98101",379.99
+2025-04-15,1c5c,7432,Bose SoundSport Headphones,Sports,"439 Washington St, San Francisco, CA 94016",99.99
+2025-04-15,ec57,0313,Wired Headphones,Sports,"139 Wilson St, Portland, OR 97035",11.99
+2025-04-15,f6cb,2edd,AAA Batteries (4-pack),Accessories,"127 6th St, Portland, OR 97035",2.99
+2025-04-15,f95d,c164,Lightning Charging Cable,Phones and Accessories,"654 West St, Portland, OR 97035",14.95
+2025-04-15,51a5,a54f,27in FHD Monitor,Sports,"765 River St, New York City, NY 10001",149.99
+2025-04-15,3b2c,41ca,27in FHD Monitor,Phones and Accessories,"167 West St, San Francisco, CA 94016",149.99
+2025-04-15,fea2,f23f,Apple Airpods Headphones,Electronics,"703 Maple St, Los Angeles, CA 90001",150.0
+2025-04-15,7269,1459,AAA Batteries (4-pack),Sports,"296 Lakeview St, Boston, MA 02215",2.99
+2025-04-15,2999,4082,AA Batteries (4-pack),Electronics,"431 Dogwood St, San Francisco, CA 94016",3.84
+2025-04-15,777c,903e,Lightning Charging Cable,Sports,"684 5th St, Atlanta, GA 30301",14.95
+2025-04-15,f902,7d07,Lightning Charging Cable,Sports,"905 Ridge St, San Francisco, CA 94016",14.95
+2025-04-15,f2b6,4977,Google Phone,Sports,"988 Adams St, Dallas, TX 75001",600.0
+2025-04-15,f23d,aeb5,20in Monitor,Electronics,"390 Ridge St, Atlanta, GA 30301",109.99
+2025-04-15,7fd5,5a96,USB-C Charging Cable,Sports,"164 Willow St, San Francisco, CA 94016",11.95
+2025-04-15,431b,32ab,Lightning Charging Cable,Phones and Accessories,"964 Forest St, Los Angeles, CA 90001",14.95
+2025-04-15,8a91,8cc5,27in FHD Monitor,Accessories,"240 Cherry St, Atlanta, GA 30301",149.99
+2025-04-15,96b4,94e3,iPhone,Phones and Accessories,"399 Church St, Boston, MA 02215",700.0
+2025-04-15,f2c6,f063,Apple Airpods Headphones,Electronics,"399 Church St, Boston, MA 02215",150.0
+2025-04-15,0e67,e303,Wired Headphones,Accessories,"399 Church St, Boston, MA 02215",11.99
+2025-04-15,023c,2015,Lightning Charging Cable,Phones and Accessories,"88 7th St, Los Angeles, CA 90001",14.95
+2025-04-15,00d3,9df3,Bose SoundSport Headphones,Accessories,"533 Jackson St, New York City, NY 10001",99.99
+2025-04-15,5c9d,72be,Bose SoundSport Headphones,Phones and Accessories,"16 Forest St, San Francisco, CA 94016",99.99
+2025-04-15,28a1,7fdf,USB-C Charging Cable,Accessories,"498 Dogwood St, Austin, TX 73301",11.95
+2025-04-15,cd7f,d788,AAA Batteries (4-pack),Accessories,"47 Pine St, Dallas, TX 75001",2.99
+2025-04-15,7b40,5964,USB-C Charging Cable,Phones and Accessories,"164 Lincoln St, New York City, NY 10001",11.95
+2025-04-15,6536,da16,Lightning Charging Cable,Sports,"406 8th St, San Francisco, CA 94016",14.95
+2025-04-15,5af1,ed0a,27in 4K Gaming Monitor,Accessories,"345 Chestnut St, Dallas, TX 75001",389.99
+2025-04-15,f6d4,209e,Wired Headphones,Electronics,"932 River St, Boston, MA 02215",11.99
+2025-04-15,6462,12d5,34in Ultra-wide Monitor,Accessories,"559 Adams St, Seattle, WA 98101",379.99
+2025-04-15,a042,195e,Wired Headphones,Electronics,"897 River St, San Francisco, CA 94016",11.99
+2025-04-15,aa8d,f769,Bose SoundSport Headphones,Accessories,"334 12th St, Los Angeles, CA 90001",99.99
+2025-04-15,bd0c,ed6b,USB-C Charging Cable,Sports,"98 13th St, San Francisco, CA 94016",11.95
+2025-04-15,2445,522b,Apple Airpods Headphones,Sports,"780 Walnut St, New York City, NY 10001",150.0
+2025-04-15,36bb,883c,Wired Headphones,Accessories,"884 11th St, San Francisco, CA 94016",11.99
+2025-04-15,ad57,0942,27in FHD Monitor,Electronics,"693 Wilson St, San Francisco, CA 94016",149.99
+2025-04-15,04b3,3821,Lightning Charging Cable,Phones and Accessories,"55 Highland St, Los Angeles, CA 90001",14.95
+2025-04-15,f741,50f3,ThinkPad Laptop,Electronics,"158 9th St, San Francisco, CA 94016",999.99
+2025-04-15,6304,0884,Macbook Pro Laptop,Accessories,"235 Ridge St, Los Angeles, CA 90001",1700.0
+2025-04-15,931c,fdc4,USB-C Charging Cable,Electronics,"112 13th St, Dallas, TX 75001",11.95
+2025-04-15,34a7,aadc,Lightning Charging Cable,Sports,"809 Dogwood St, San Francisco, CA 94016",14.95
+2025-04-15,e283,cfc0,AAA Batteries (4-pack),Phones and Accessories,"187 Dogwood St, Austin, TX 73301",2.99
+2025-04-15,495e,0487,Lightning Charging Cable,Phones and Accessories,"850 2nd St, Atlanta, GA 30301",14.95
+2025-04-15,0eac,d585,Lightning Charging Cable,Phones and Accessories,"989 Jefferson St, Los Angeles, CA 90001",14.95
+2025-04-15,843c,36b6,USB-C Charging Cable,Phones and Accessories,"787 Highland St, Seattle, WA 98101",11.95
+2025-04-15,ebf6,daf9,Apple Airpods Headphones,Sports,"908 Lincoln St, Atlanta, GA 30301",150.0
+2025-04-15,46cc,a8f4,Flat-screen TV,Accessories,"662 Lincoln St, Seattle, WA 98101",300.0
+2025-04-15,3e7f,a8ad,Bose SoundSport Headphones,Accessories,"61 Sunset St, Portland, OR 97035",99.99
+2025-04-15,0019,488e,Lightning Charging Cable,Phones and Accessories,"871 Willow St, Los Angeles, CA 90001",14.95
+2025-04-15,0ec2,6334,AA Batteries (4-pack),Electronics,"295 Chestnut St, Boston, MA 02215",3.84
+2025-04-15,ced4,c1c9,Apple Airpods Headphones,Phones and Accessories,"64 Elm St, San Francisco, CA 94016",150.0
+2025-04-15,8617,401b,iPhone,Sports,"416 9th St, San Francisco, CA 94016",700.0
+2025-04-15,8a42,59e6,USB-C Charging Cable,Phones and Accessories,"717 Cedar St, Dallas, TX 75001",11.95
+2025-04-15,1a28,601d,Macbook Pro Laptop,Phones and Accessories,"395 Lake St, New York City, NY 10001",1700.0
+2025-04-15,688d,3f8a,AA Batteries (4-pack),Electronics,"406 Highland St, San Francisco, CA 94016",3.84
+2025-04-15,f524,496f,Lightning Charging Cable,Electronics,"411 Jackson St, San Francisco, CA 94016",14.95
+2025-04-15,9efd,c0c7,USB-C Charging Cable,Phones and Accessories,"504 14th St, Dallas, TX 75001",11.95
+2025-04-15,c451,9b75,Apple Airpods Headphones,Sports,"504 14th St, Dallas, TX 75001",150.0
+2025-04-15,f828,fee5,AA Batteries (4-pack),Sports,"582 Madison St, Dallas, TX 75001",3.84
+2025-04-15,d74f,5212,Wired Headphones,Sports,"118 12th St, Seattle, WA 98101",11.99
+2025-04-15,d7c7,3770,Bose SoundSport Headphones,Sports,"350 5th St, Boston, MA 02215",99.99
+2025-04-15,1ba1,2f54,ThinkPad Laptop,Phones and Accessories,"503 Maple St, Seattle, WA 98101",999.99
+2025-04-15,0ada,d0ad,AA Batteries (4-pack),Phones and Accessories,"644 13th St, San Francisco, CA 94016",3.84
+2025-04-15,effb,ce50,Bose SoundSport Headphones,Electronics,"406 Washington St, Los Angeles, CA 90001",99.99
+2025-04-15,e2ee,529c,AAA Batteries (4-pack),Phones and Accessories,"821 14th St, Atlanta, GA 30301",2.99
+2025-04-15,44dd,f0ea,ThinkPad Laptop,Electronics,"146 2nd St, Boston, MA 02215",999.99
+2025-04-15,ccd2,0d84,Lightning Charging Cable,Electronics,"582 Jackson St, Boston, MA 02215",14.95
+2025-04-15,69f7,a26f,AAA Batteries (4-pack),Accessories,"919 Elm St, San Francisco, CA 94016",2.99
+2025-04-15,95d4,e061,20in Monitor,Accessories,"164 Pine St, Seattle, WA 98101",109.99
+2025-04-15,3294,7a0d,AAA Batteries (4-pack),Phones and Accessories,"814 Sunset St, Portland, OR 97035",2.99
+2025-04-15,431b,a1b9,AAA Batteries (4-pack),Phones and Accessories,"445 Lake St, San Francisco, CA 94016",2.99
+2025-04-15,f37d,2d54,Lightning Charging Cable,Sports,"745 2nd St, Atlanta, GA 30301",14.95
+2025-04-15,3060,0508,27in FHD Monitor,Electronics,"170 6th St, Atlanta, GA 30301",149.99
+2025-04-15,584e,0496,Wired Headphones,Accessories,"214 14th St, Seattle, WA 98101",11.99
+2025-04-15,c608,78a7,27in FHD Monitor,Accessories,"135 Washington St, San Francisco, CA 94016",149.99
+2025-04-15,0de4,ae2b,Wired Headphones,Phones and Accessories,"189 Maple St, San Francisco, CA 94016",11.99
+2025-04-15,048b,5072,Lightning Charging Cable,Accessories,"449 Maple St, Austin, TX 73301",14.95
+2025-04-15,8846,5ead,AA Batteries (4-pack),Sports,"861 Cedar St, Dallas, TX 75001",3.84
+2025-04-15,45ed,b8f8,Lightning Charging Cable,Phones and Accessories,"852 Cherry St, San Francisco, CA 94016",14.95
+2025-04-15,1681,cb57,Apple Airpods Headphones,Electronics,"287 Chestnut St, San Francisco, CA 94016",150.0
+2025-04-15,4a83,2a3d,Lightning Charging Cable,Electronics,"846 Cherry St, San Francisco, CA 94016",14.95
+2025-04-15,482c,875b,Apple Airpods Headphones,Electronics,"877 Lincoln St, Atlanta, GA 30301",150.0
+2025-04-15,baea,f608,Apple Airpods Headphones,Phones and Accessories,"892 12th St, Los Angeles, CA 90001",150.0
+2025-04-15,00bd,7cd2,AAA Batteries (4-pack),Accessories,"644 Pine St, Atlanta, GA 30301",2.99
+2025-04-15,3c33,9e05,AA Batteries (4-pack),Phones and Accessories,"821 Spruce St, San Francisco, CA 94016",3.84
+2025-04-15,8ff3,e9fd,Wired Headphones,Accessories,"944 Chestnut St, Los Angeles, CA 90001",11.99
+2025-04-15,eb62,2744,AA Batteries (4-pack),Electronics,"440 Elm St, Boston, MA 02215",3.84
+2025-04-15,1e18,1183,Wired Headphones,Sports,"84 Hickory St, Los Angeles, CA 90001",11.99
+2025-04-15,14d8,b9d6,Bose SoundSport Headphones,Accessories,"573 Lake St, Dallas, TX 75001",99.99
+2025-04-15,cad4,576c,27in FHD Monitor,Accessories,"108 River St, San Francisco, CA 94016",149.99
+2025-04-15,75c5,c94b,AAA Batteries (4-pack),Accessories,"211 Meadow St, New York City, NY 10001",2.99
+2025-04-15,a2e7,903c,AAA Batteries (4-pack),Accessories,"917 Spruce St, Atlanta, GA 30301",2.99
+2025-04-15,2c0a,1d8e,USB-C Charging Cable,Electronics,"171 Ridge St, Portland, OR 97035",11.95
+2025-04-15,e370,98ac,Google Phone,Accessories,"770 Center St, San Francisco, CA 94016",600.0
+2025-04-15,d625,87cd,USB-C Charging Cable,Accessories,"76 8th St, San Francisco, CA 94016",11.95
+2025-04-15,fbf5,6dc7,AAA Batteries (4-pack),Phones and Accessories,"476 8th St, Boston, MA 02215",2.99
+2025-04-15,ac4f,54c8,Apple Airpods Headphones,Accessories,"97 Highland St, Los Angeles, CA 90001",150.0
+2025-04-15,13be,9d17,Flat-screen TV,Sports,"374 Meadow St, Austin, TX 73301",300.0
+2025-04-15,56e9,38f9,AA Batteries (4-pack),Accessories,"427 Lakeview St, Los Angeles, CA 90001",3.84
+2025-04-15,8e27,0e7e,27in FHD Monitor,Electronics,"434 Church St, San Francisco, CA 94016",149.99
+2025-04-15,e6da,8b04,USB-C Charging Cable,Electronics,"147 5th St, Dallas, TX 75001",11.95
+2025-04-15,f827,53ef,Lightning Charging Cable,Sports,"81 Main St, San Francisco, CA 94016",14.95
+2025-04-15,085d,dd1d,iPhone,Electronics,"964 Hill St, Seattle, WA 98101",700.0
+2025-04-15,2f76,f336,AA Batteries (4-pack),Electronics,"880 Lakeview St, San Francisco, CA 94016",3.84
+2025-04-15,dad1,1061,AAA Batteries (4-pack),Sports,"414 8th St, Los Angeles, CA 90001",2.99
+2025-04-15,0c99,1d35,Wired Headphones,Electronics,"31 6th St, New York City, NY 10001",11.99
+2025-04-15,2db4,eb8f,Apple Airpods Headphones,Sports,"790 Wilson St, Austin, TX 73301",150.0
+2025-04-15,6aed,0aea,AA Batteries (4-pack),Phones and Accessories,"676 Willow St, New York City, NY 10001",3.84
+2025-04-15,d335,29fe,AAA Batteries (4-pack),Electronics,"625 Church St, Austin, TX 73301",2.99
+2025-04-15,9cc6,d9b3,ThinkPad Laptop,Electronics,"284 12th St, San Francisco, CA 94016",999.99
+2025-04-15,4925,6d54,Macbook Pro Laptop,Phones and Accessories,"768 Forest St, San Francisco, CA 94016",1700.0
+2025-04-15,84e4,3f57,20in Monitor,Electronics,"368 Forest St, San Francisco, CA 94016",109.99
+2025-04-15,ff82,c238,AAA Batteries (4-pack),Electronics,"719 Adams St, New York City, NY 10001",2.99
+2025-04-15,e593,237a,Bose SoundSport Headphones,Sports,"52 Hill St, Portland, OR 97035",99.99
+2025-04-15,bd7e,75f1,AAA Batteries (4-pack),Phones and Accessories,"454 Main St, Seattle, WA 98101",2.99
+2025-04-15,c831,bcf5,Lightning Charging Cable,Accessories,"98 Forest St, New York City, NY 10001",14.95
+2025-04-15,b7e9,42f5,Wired Headphones,Phones and Accessories,"98 Forest St, New York City, NY 10001",11.99
+2025-04-15,e2e9,ca01,Lightning Charging Cable,Accessories,"678 Adams St, Dallas, TX 75001",14.95
+2025-04-15,fedc,a0c8,20in Monitor,Electronics,"434 Sunset St, Atlanta, GA 30301",109.99
+2025-04-15,7d4d,442d,Google Phone,Phones and Accessories,"657 10th St, Austin, TX 73301",600.0
+2025-04-15,ffbb,5254,Lightning Charging Cable,Sports,"916 Maple St, Seattle, WA 98101",14.95
+2025-04-15,0900,a245,AAA Batteries (4-pack),Sports,"166 South St, San Francisco, CA 94016",2.99
+2025-04-15,5628,3cf0,AA Batteries (4-pack),Electronics,"449 Main St, Los Angeles, CA 90001",3.84
+2025-04-15,c615,8399,Lightning Charging Cable,Accessories,"576 Pine St, Boston, MA 02215",14.95
+2025-04-15,0045,169b,AA Batteries (4-pack),Electronics,"63 Cherry St, Portland, ME 04101",3.84
+2025-04-15,5781,be6a,AA Batteries (4-pack),Electronics,"857 4th St, San Francisco, CA 94016",3.84
+2025-04-15,e9b9,5c91,Wired Headphones,Phones and Accessories,"592 Cedar St, Los Angeles, CA 90001",11.99
+2025-04-15,c7d2,151f,Apple Airpods Headphones,Accessories,"476 Center St, Atlanta, GA 30301",150.0
+2025-04-15,3cc3,6152,AAA Batteries (4-pack),Phones and Accessories,"990 Park St, Los Angeles, CA 90001",2.99
+2025-04-15,faf8,a2e1,AA Batteries (4-pack),Phones and Accessories,"26 Adams St, San Francisco, CA 94016",3.84
+2025-04-15,ddbb,f46b,Macbook Pro Laptop,Phones and Accessories,"214 Jackson St, San Francisco, CA 94016",1700.0
+2025-04-15,2d1d,8dc4,USB-C Charging Cable,Sports,"106 Sunset St, Boston, MA 02215",11.95
+2025-04-15,d95e,f55b,USB-C Charging Cable,Phones and Accessories,"221 14th St, San Francisco, CA 94016",11.95
+2025-04-15,01b1,a095,AAA Batteries (4-pack),Accessories,"106 Jefferson St, Boston, MA 02215",2.99
+2025-04-15,194f,f07c,iPhone,Electronics,"738 8th St, San Francisco, CA 94016",700.0
+2025-04-15,2653,e54d,Google Phone,Sports,"621 Dogwood St, San Francisco, CA 94016",600.0
+2025-04-15,f353,d86f,27in 4K Gaming Monitor,Accessories,"499 7th St, Boston, MA 02215",389.99
+2025-04-15,9e25,d737,AA Batteries (4-pack),Electronics,"956 Adams St, Boston, MA 02215",3.84
+2025-04-15,30ec,4cf6,Lightning Charging Cable,Electronics,"965 Johnson St, San Francisco, CA 94016",14.95
+2025-04-15,0524,c77d,Lightning Charging Cable,Phones and Accessories,"124 Jackson St, San Francisco, CA 94016",14.95
+2025-04-15,ac56,8521,27in 4K Gaming Monitor,Sports,"813 Forest St, New York City, NY 10001",389.99
+2025-04-15,0af1,1f37,iPhone,Accessories,"166 10th St, Atlanta, GA 30301",700.0
+2025-04-15,6d9b,fd6b,AAA Batteries (4-pack),Sports,"496 4th St, Boston, MA 02215",2.99
+2025-04-15,4cb6,4eec,Wired Headphones,Accessories,"608 North St, Dallas, TX 75001",11.99
+2025-04-15,8143,6624,USB-C Charging Cable,Electronics,"152 1st St, Austin, TX 73301",11.95
+2025-04-15,7be9,e649,AAA Batteries (4-pack),Sports,"477 Highland St, Los Angeles, CA 90001",2.99
+2025-04-15,d581,da13,USB-C Charging Cable,Accessories,"964 Main St, Seattle, WA 98101",11.95
+2025-04-15,9da8,3d51,Wireless buds,Accessories,"35 13th St, Portland, OR 97035",400.0
+2025-04-15,c1d8,bfd2,27in FHD Monitor,Accessories,"345 Hill St, New York City, NY 10001",149.99
+2025-04-15,f0ab,759d,Apple Airpods Headphones,Sports,"524 Ridge St, Boston, MA 02215",150.0
+2025-04-15,d3e6,2e27,34in Ultra-wide Monitor,Accessories,"621 13th St, San Francisco, CA 94016",379.99
+2025-04-15,4a93,988a,USB-C Charging Cable,Phones and Accessories,"980 Washington St, Portland, OR 97035",11.95
+2025-04-15,ec58,784c,AA Batteries (4-pack),Phones and Accessories,"543 Forest St, Atlanta, GA 30301",3.84
+2025-04-15,1783,b1a9,34in Ultra-wide Monitor,Accessories,"672 Ridge St, Los Angeles, CA 90001",379.99
+2025-04-15,55bf,263d,AAA Batteries (4-pack),Phones and Accessories,"982 Cedar St, New York City, NY 10001",2.99
+2025-04-15,004c,b440,27in 4K Gaming Monitor,Accessories,"666 Jefferson St, Seattle, WA 98101",389.99
+2025-04-15,274a,8b71,Wired Headphones,Accessories,"347 12th St, Austin, TX 73301",11.99
+2025-04-15,7f4e,a1eb,Apple Airpods Headphones,Sports,"788 6th St, San Francisco, CA 94016",150.0
+2025-04-15,547e,2392,AA Batteries (4-pack),Sports,"838 2nd St, New York City, NY 10001",3.84
+2025-04-15,db89,caaf,AA Batteries (4-pack),Sports,"122 Jackson St, New York City, NY 10001",3.84
+2025-04-15,f971,84cc,34in Ultra-wide Monitor,Sports,"348 River St, San Francisco, CA 94016",379.99
+2025-04-15,d933,9b9e,Macbook Pro Laptop,Electronics,"27 Jefferson St, Boston, MA 02215",1700.0
+2025-04-15,e5ed,2f30,34in Ultra-wide Monitor,Sports,"640 Lake St, New York City, NY 10001",379.99
+2025-04-15,3fe7,28a7,Bose SoundSport Headphones,Sports,"798 Hill St, Portland, OR 97035",99.99
+2025-04-15,2d15,86bd,Wired Headphones,Phones and Accessories,"733 Meadow St, New York City, NY 10001",11.99
+2025-04-15,9231,161d,Wired Headphones,Accessories,"806 Maple St, Atlanta, GA 30301",11.99
+2025-04-15,e4d2,bc59,AAA Batteries (4-pack),Sports,"893 Jefferson St, Boston, MA 02215",2.99
+2025-04-15,6ac2,c628,Wireless buds,Sports,"709 North St, Seattle, WA 98101",400.0
+2025-04-15,dcb7,3cc3,Lightning Charging Cable,Phones and Accessories,"1 Jefferson St, New York City, NY 10001",14.95
+2025-04-15,e27b,97d0,27in 4K Gaming Monitor,Sports,"156 Jackson St, Los Angeles, CA 90001",389.99
+2025-04-15,3eec,55b2,USB-C Charging Cable,Electronics,"667 Spruce St, Atlanta, GA 30301",11.95
+2025-04-15,bea9,c9ce,Apple Airpods Headphones,Sports,"220 Lakeview St, Dallas, TX 75001",150.0
+2025-04-15,c808,d402,Macbook Pro Laptop,Sports,"174 Lincoln St, San Francisco, CA 94016",1700.0
+2025-04-15,ee79,a1fc,iPhone,Accessories,"776 10th St, Boston, MA 02215",700.0
+2025-04-15,86f2,8b08,iPhone,Phones and Accessories,"371 11th St, Portland, OR 97035",700.0
+2025-04-15,5a69,5504,27in 4K Gaming Monitor,Electronics,"823 Hill St, Seattle, WA 98101",389.99
+2025-04-15,93fc,aa5c,Apple Airpods Headphones,Accessories,"478 8th St, Boston, MA 02215",150.0
+2025-04-15,2a06,1e75,USB-C Charging Cable,Phones and Accessories,"234 Cherry St, Austin, TX 73301",11.95
+2025-04-15,8abd,d019,AA Batteries (4-pack),Accessories,"593 Main St, Los Angeles, CA 90001",3.84
+2025-04-15,a407,ff11,Wired Headphones,Sports,"492 Forest St, Seattle, WA 98101",11.99
+2025-04-15,4851,8c09,Google Phone,Sports,"411 Ridge St, Dallas, TX 75001",600.0
+2025-04-15,aba3,3e54,USB-C Charging Cable,Phones and Accessories,"57 Hill St, New York City, NY 10001",11.95
+2025-04-15,1ead,b389,USB-C Charging Cable,Sports,"65 Pine St, New York City, NY 10001",11.95
+2025-04-15,81d7,d09c,AA Batteries (4-pack),Accessories,"164 Walnut St, Los Angeles, CA 90001",3.84
+2025-04-15,6719,d71d,USB-C Charging Cable,Phones and Accessories,"169 Washington St, San Francisco, CA 94016",11.95
+2025-04-15,4aef,5db7,USB-C Charging Cable,Phones and Accessories,"986 11th St, New York City, NY 10001",11.95
+2025-04-15,3680,742a,Bose SoundSport Headphones,Phones and Accessories,"492 Lakeview St, Boston, MA 02215",99.99
+2025-04-15,0465,df85,Bose SoundSport Headphones,Sports,"169 Lakeview St, Seattle, WA 98101",99.99
+2025-04-15,6489,90ce,AAA Batteries (4-pack),Electronics,"463 5th St, New York City, NY 10001",2.99
+2025-04-15,7327,6b6f,Google Phone,Sports,"756 Lake St, Dallas, TX 75001",600.0
+2025-04-15,7b06,ce93,27in 4K Gaming Monitor,Electronics,"152 Cherry St, Seattle, WA 98101",389.99
+2025-04-15,5df8,e109,USB-C Charging Cable,Phones and Accessories,"317 Center St, New York City, NY 10001",11.95
+2025-04-15,1ce2,f40a,AA Batteries (4-pack),Sports,"416 Forest St, Atlanta, GA 30301",3.84
+2025-04-15,484c,7a8c,Macbook Pro Laptop,Phones and Accessories,"331 Pine St, Boston, MA 02215",1700.0
+2025-04-15,e1e8,b31e,Wired Headphones,Accessories,"340 11th St, Boston, MA 02215",11.99
+2025-04-15,35f2,ce3c,Lightning Charging Cable,Sports,"494 11th St, Austin, TX 73301",14.95
+2025-04-15,c944,6c9a,Wired Headphones,Accessories,"370 7th St, Los Angeles, CA 90001",11.99
+2025-04-15,e99c,395b,USB-C Charging Cable,Phones and Accessories,"697 Center St, San Francisco, CA 94016",11.95
+2025-04-15,5064,869b,Lightning Charging Cable,Accessories,"331 Meadow St, Atlanta, GA 30301",14.95
+2025-04-15,5895,89ca,AAA Batteries (4-pack),Accessories,"431 7th St, New York City, NY 10001",2.99
+2025-04-15,063c,ed70,Wired Headphones,Phones and Accessories,"426 Walnut St, Los Angeles, CA 90001",11.99
+2025-04-15,91e9,6b03,Lightning Charging Cable,Electronics,"733 Lincoln St, Boston, MA 02215",14.95
+2025-04-15,11e7,23f3,Macbook Pro Laptop,Sports,"916 Forest St, San Francisco, CA 94016",1700.0
+2025-04-15,91bc,96d2,iPhone,Accessories,"446 Pine St, Atlanta, GA 30301",700.0
+2025-04-15,44d2,504f,27in 4K Gaming Monitor,Phones and Accessories,"987 Maple St, Austin, TX 73301",389.99
+2025-04-15,7614,c6c0,Bose SoundSport Headphones,Phones and Accessories,"485 North St, Los Angeles, CA 90001",99.99
+2025-04-15,ae25,ba81,34in Ultra-wide Monitor,Phones and Accessories,"997 Jefferson St, New York City, NY 10001",379.99
+2025-04-15,cd81,488a,USB-C Charging Cable,Accessories,"920 Meadow St, Seattle, WA 98101",11.95
+2025-04-15,15ac,cd40,ThinkPad Laptop,Accessories,"903 Forest St, San Francisco, CA 94016",999.99
+2025-04-15,2191,a60a,iPhone,Electronics,"183 Cherry St, Atlanta, GA 30301",700.0
+2025-04-15,14f8,6abb,Lightning Charging Cable,Accessories,"183 Cherry St, Atlanta, GA 30301",14.95
+2025-04-15,e7ca,9543,AA Batteries (4-pack),Sports,"383 Jackson St, Atlanta, GA 30301",3.84
+2025-04-15,3b4d,3811,AA Batteries (4-pack),Accessories,"927 Forest St, Atlanta, GA 30301",3.84
+2025-04-15,1ad3,9784,Bose SoundSport Headphones,Sports,"93 Cherry St, Boston, MA 02215",99.99
+2025-04-15,de9d,0388,USB-C Charging Cable,Sports,"156 Church St, San Francisco, CA 94016",11.95
+2025-04-15,d2c7,a436,USB-C Charging Cable,Sports,"607 6th St, San Francisco, CA 94016",11.95
+2025-04-15,10a5,408d,Apple Airpods Headphones,Phones and Accessories,"961 7th St, Portland, OR 97035",150.0
+2025-04-15,298f,5c8a,AAA Batteries (4-pack),Electronics,"389 Hill St, Atlanta, GA 30301",2.99
+2025-04-15,448d,7eda,Lightning Charging Cable,Electronics,"218 8th St, Dallas, TX 75001",14.95
+2025-04-15,78b5,f287,27in FHD Monitor,Accessories,"160 Ridge St, Los Angeles, CA 90001",149.99
+2025-04-15,3881,e517,Apple Airpods Headphones,Phones and Accessories,"60 Cedar St, Boston, MA 02215",150.0
+2025-04-15,4626,a061,Flat-screen TV,Phones and Accessories,"974 10th St, Atlanta, GA 30301",300.0
+2025-04-15,8a97,0062,27in FHD Monitor,Electronics,"341 Elm St, Seattle, WA 98101",149.99
+2025-04-15,ba5a,cf20,27in 4K Gaming Monitor,Phones and Accessories,"396 River St, Los Angeles, CA 90001",389.99
+2025-04-15,3d01,0b24,Lightning Charging Cable,Electronics,"100 Johnson St, Los Angeles, CA 90001",14.95
+2025-04-15,50ed,cf81,USB-C Charging Cable,Electronics,"67 Center St, San Francisco, CA 94016",11.95
+2025-04-15,50c8,b60f,Apple Airpods Headphones,Electronics,"999 Spruce St, Seattle, WA 98101",150.0
+2025-04-15,f646,1633,AA Batteries (4-pack),Phones and Accessories,"884 Spruce St, Los Angeles, CA 90001",3.84
+2025-04-15,1104,357a,Bose SoundSport Headphones,Sports,"485 Highland St, Atlanta, GA 30301",99.99
+2025-04-15,08bb,d80a,27in FHD Monitor,Electronics,"116 Walnut St, Portland, OR 97035",149.99
+2025-04-15,b762,92d3,Wired Headphones,Sports,"610 Spruce St, Dallas, TX 75001",11.99
+2025-04-15,aa73,4375,AAA Batteries (4-pack),Sports,"765 Lake St, Portland, OR 97035",2.99
+2025-04-15,52ee,d2a9,Wireless buds,Sports,"289 Walnut St, Atlanta, GA 30301",400.0
+2025-04-15,66a1,1afc,Lightning Charging Cable,Phones and Accessories,"75 Ridge St, San Francisco, CA 94016",14.95
+2025-04-15,003d,0633,Bose SoundSport Headphones,Accessories,"160 Hickory St, Austin, TX 73301",99.99
+2025-04-15,45e8,3ea0,27in FHD Monitor,Sports,"351 Adams St, Austin, TX 73301",149.99
+2025-04-15,6962,4533,USB-C Charging Cable,Accessories,"909 2nd St, Seattle, WA 98101",11.95
+2025-04-15,8602,57f6,Lightning Charging Cable,Phones and Accessories,"78 Sunset St, New York City, NY 10001",14.95
+2025-04-15,49ba,3f83,LG Washing Machine,Phones and Accessories,"530 Jackson St, Dallas, TX 75001",600.0
+2025-04-15,70f9,87a7,20in Monitor,Sports,"752 Walnut St, Austin, TX 73301",109.99
+2025-04-15,2fa3,20f7,USB-C Charging Cable,Accessories,"780 Cherry St, Portland, ME 04101",11.95
+2025-04-15,bfc5,ab2b,AA Batteries (4-pack),Phones and Accessories,"824 West St, Dallas, TX 75001",3.84
+2025-04-15,f81c,abf2,Wired Headphones,Accessories,"50 Willow St, San Francisco, CA 94016",11.99
+2025-04-15,27bb,d530,Lightning Charging Cable,Phones and Accessories,"564 13th St, San Francisco, CA 94016",14.95
+2025-04-15,1c08,126c,Apple Airpods Headphones,Sports,"409 Center St, San Francisco, CA 94016",150.0
+2025-04-15,4fb3,84ea,USB-C Charging Cable,Phones and Accessories,"693 Chestnut St, New York City, NY 10001",11.95
+2025-04-15,5ae5,e4c8,Bose SoundSport Headphones,Sports,"961 Chestnut St, Los Angeles, CA 90001",99.99
+2025-04-15,f9ac,0905,USB-C Charging Cable,Electronics,"348 Pine St, Atlanta, GA 30301",11.95
+2025-04-15,27ea,664b,Lightning Charging Cable,Phones and Accessories,"443 Ridge St, Dallas, TX 75001",14.95
+2025-04-15,d4d3,cebd,USB-C Charging Cable,Electronics,"538 Wilson St, San Francisco, CA 94016",11.95
+2025-04-15,43cd,9564,Lightning Charging Cable,Accessories,"432 11th St, Dallas, TX 75001",14.95
+2025-04-15,0d25,470e,Lightning Charging Cable,Electronics,"929 Lake St, New York City, NY 10001",14.95
+2025-04-15,b130,c03f,Wired Headphones,Accessories,"443 11th St, San Francisco, CA 94016",11.99
+2025-04-15,0078,a25d,Apple Airpods Headphones,Phones and Accessories,"605 West St, Austin, TX 73301",150.0
+2025-04-15,2419,104e,27in FHD Monitor,Phones and Accessories,"353 4th St, San Francisco, CA 94016",149.99
+2025-04-15,6f56,bc40,Bose SoundSport Headphones,Phones and Accessories,"353 4th St, San Francisco, CA 94016",99.99
+2025-04-15,18ff,51da,Bose SoundSport Headphones,Electronics,"581 Willow St, Boston, MA 02215",99.99
+2025-04-15,5893,97b2,27in 4K Gaming Monitor,Accessories,"301 River St, New York City, NY 10001",389.99
+2025-04-15,41bf,a069,Apple Airpods Headphones,Sports,"110 Main St, Portland, OR 97035",150.0
+2025-04-15,eac3,b325,Macbook Pro Laptop,Phones and Accessories,"728 River St, Boston, MA 02215",1700.0
+2025-04-15,a71b,7f17,Apple Airpods Headphones,Sports,"865 7th St, San Francisco, CA 94016",150.0
+2025-04-15,4948,beb5,AA Batteries (4-pack),Sports,"921 Center St, Los Angeles, CA 90001",3.84
+2025-04-15,621b,b508,Google Phone,Electronics,"903 Lake St, Seattle, WA 98101",600.0
+2025-04-15,b8ce,f06e,USB-C Charging Cable,Accessories,"903 Lake St, Seattle, WA 98101",11.95
+2025-04-15,a15d,09a4,AAA Batteries (4-pack),Electronics,"135 Hickory St, Los Angeles, CA 90001",2.99
+2025-04-15,774c,39eb,USB-C Charging Cable,Sports,"266 Forest St, Los Angeles, CA 90001",11.95
+2025-04-15,1d47,1fcd,USB-C Charging Cable,Sports,"779 Ridge St, Dallas, TX 75001",11.95
+2025-04-15,3b36,e43c,AA Batteries (4-pack),Phones and Accessories,"830 Dogwood St, Dallas, TX 75001",3.84
+2025-04-15,1771,808d,Bose SoundSport Headphones,Sports,"147 Maple St, Los Angeles, CA 90001",99.99
+2025-04-15,1237,facb,iPhone,Sports,"383 Jefferson St, San Francisco, CA 94016",700.0
+2025-04-15,f85b,e6f3,Wired Headphones,Electronics,"383 Jefferson St, San Francisco, CA 94016",11.99
+2025-04-15,d50a,5857,AAA Batteries (4-pack),Electronics,"594 West St, San Francisco, CA 94016",2.99
+2025-04-15,c2c7,eaa0,27in FHD Monitor,Accessories,"393 Johnson St, San Francisco, CA 94016",149.99
+2025-04-15,72e7,1a60,20in Monitor,Sports,"482 Washington St, Boston, MA 02215",109.99
+2025-04-15,cc59,5db2,AA Batteries (4-pack),Sports,"270 2nd St, San Francisco, CA 94016",3.84
+2025-04-15,396a,e7ef,27in FHD Monitor,Phones and Accessories,"775 West St, Seattle, WA 98101",149.99
+2025-04-15,8c97,236c,USB-C Charging Cable,Phones and Accessories,"173 Center St, Portland, OR 97035",11.95
+2025-04-15,0baf,b2d3,Flat-screen TV,Accessories,"978 7th St, San Francisco, CA 94016",300.0
+2025-04-15,f555,d5e0,27in 4K Gaming Monitor,Accessories,"452 South St, San Francisco, CA 94016",389.99
+2025-04-15,b44a,d11a,Bose SoundSport Headphones,Accessories,"350 West St, New York City, NY 10001",99.99
+2025-04-15,c688,ae4b,Bose SoundSport Headphones,Electronics,"418 Washington St, New York City, NY 10001",99.99
+2025-04-15,863d,2611,27in 4K Gaming Monitor,Electronics,"523 9th St, Austin, TX 73301",389.99
+2025-04-15,3460,28c3,Wireless buds,Sports,"402 Maple St, Los Angeles, CA 90001",400.0
+2025-04-15,a025,cd9e,Lightning Charging Cable,Accessories,"373 Cedar St, Seattle, WA 98101",14.95
+2025-04-15,9803,3aae,Google Phone,Phones and Accessories,"457 Adams St, Los Angeles, CA 90001",600.0
+2025-04-15,b948,6d29,USB-C Charging Cable,Phones and Accessories,"457 Adams St, Los Angeles, CA 90001",11.95
+2025-04-15,143d,f3a6,Lightning Charging Cable,Electronics,"449 14th St, Austin, TX 73301",14.95
+2025-04-15,dda3,74f7,AAA Batteries (4-pack),Phones and Accessories,"77 Lakeview St, Seattle, WA 98101",2.99
+2025-04-15,fc17,c6db,AA Batteries (4-pack),Sports,"976 Main St, Atlanta, GA 30301",3.84
+2025-04-15,5296,20db,USB-C Charging Cable,Accessories,"836 Jefferson St, Seattle, WA 98101",11.95
+2025-04-15,f912,89d3,20in Monitor,Phones and Accessories,"583 North St, Los Angeles, CA 90001",109.99
+2025-04-15,a536,76f7,AAA Batteries (4-pack),Sports,"280 5th St, San Francisco, CA 94016",2.99
+2025-04-15,6e93,d66b,34in Ultra-wide Monitor,Phones and Accessories,"730 Adams St, Boston, MA 02215",379.99
+2025-04-15,c547,a2ca,LG Dryer,Sports,"404 Lakeview St, San Francisco, CA 94016",600.0
+2025-04-15,730e,25fd,AA Batteries (4-pack),Sports,"91 Hill St, Atlanta, GA 30301",3.84
+2025-04-15,b4e4,9e02,AAA Batteries (4-pack),Phones and Accessories,"318 2nd St, New York City, NY 10001",2.99
+2025-04-15,a537,4820,Lightning Charging Cable,Sports,"215 Lincoln St, Austin, TX 73301",14.95
+2025-04-15,a0ef,be20,USB-C Charging Cable,Accessories,"337 Wilson St, New York City, NY 10001",11.95
+2025-04-15,01d1,5dba,Lightning Charging Cable,Electronics,"775 2nd St, Boston, MA 02215",14.95
+2025-04-15,e85d,27fb,USB-C Charging Cable,Sports,"952 4th St, Atlanta, GA 30301",11.95
+2025-04-15,dcea,c803,Wired Headphones,Electronics,"846 13th St, Atlanta, GA 30301",11.99
+2025-04-15,4b83,893b,Lightning Charging Cable,Phones and Accessories,"660 Park St, Atlanta, GA 30301",14.95
+2025-04-15,03d6,d356,Lightning Charging Cable,Accessories,"336 Center St, San Francisco, CA 94016",14.95
+2025-04-15,8b61,c83c,20in Monitor,Accessories,"497 Washington St, San Francisco, CA 94016",109.99
+2025-04-15,2763,f5b9,AA Batteries (4-pack),Phones and Accessories,"611 West St, Atlanta, GA 30301",3.84
+2025-04-15,037a,8dd5,Flat-screen TV,Phones and Accessories,"214 9th St, San Francisco, CA 94016",300.0
+2025-04-15,754f,87bb,USB-C Charging Cable,Phones and Accessories,"873 Lakeview St, Seattle, WA 98101",11.95
+2025-04-15,1714,ee89,Bose SoundSport Headphones,Accessories,"153 Lakeview St, Dallas, TX 75001",99.99
+2025-04-15,8b94,dc11,34in Ultra-wide Monitor,Electronics,"254 Cedar St, New York City, NY 10001",379.99
+2025-04-15,75a3,eaf8,34in Ultra-wide Monitor,Sports,"689 6th St, San Francisco, CA 94016",379.99
+2025-04-15,7922,14fa,27in FHD Monitor,Electronics,"704 10th St, San Francisco, CA 94016",149.99
+2025-04-15,5fe0,e291,Flat-screen TV,Sports,"100 Spruce St, Los Angeles, CA 90001",300.0
+2025-04-15,7c6a,5ceb,AAA Batteries (4-pack),Phones and Accessories,"906 West St, Seattle, WA 98101",2.99
+2025-04-15,98d7,52b2,Bose SoundSport Headphones,Sports,"858 Wilson St, Boston, MA 02215",99.99
+2025-04-15,764c,d739,Wired Headphones,Accessories,"4 Main St, San Francisco, CA 94016",11.99
+2025-04-15,b559,c793,USB-C Charging Cable,Phones and Accessories,"448 River St, Boston, MA 02215",11.95
+2025-04-15,b3b4,5923,USB-C Charging Cable,Electronics,"739 11th St, Boston, MA 02215",11.95
+2025-04-15,3b30,4d95,Bose SoundSport Headphones,Accessories,"309 11th St, San Francisco, CA 94016",99.99
+2025-04-15,8aac,d4b2,Bose SoundSport Headphones,Accessories,"471 Maple St, San Francisco, CA 94016",99.99
+2025-04-15,8d90,92cb,AA Batteries (4-pack),Phones and Accessories,"400 9th St, San Francisco, CA 94016",3.84
+2025-04-15,ceb2,5798,AAA Batteries (4-pack),Phones and Accessories,"400 9th St, San Francisco, CA 94016",2.99
+2025-04-15,45e9,ee59,Lightning Charging Cable,Sports,"368 11th St, Seattle, WA 98101",14.95
+2025-04-15,37e9,1c77,AAA Batteries (4-pack),Sports,"45 Lincoln St, Seattle, WA 98101",2.99
+2025-04-15,4d4e,f417,AA Batteries (4-pack),Phones and Accessories,"826 Meadow St, Los Angeles, CA 90001",3.84
+2025-04-15,ec0a,a0f8,Bose SoundSport Headphones,Sports,"946 Lake St, Seattle, WA 98101",99.99
+2025-04-15,0165,c8d9,USB-C Charging Cable,Accessories,"1 8th St, Atlanta, GA 30301",11.95
+2025-04-15,936a,db93,Bose SoundSport Headphones,Accessories,"622 Lake St, Portland, ME 04101",99.99
+2025-04-15,6d4f,e635,AAA Batteries (4-pack),Sports,"676 1st St, Los Angeles, CA 90001",2.99
+2025-04-15,849f,373c,27in FHD Monitor,Accessories,"325 Chestnut St, New York City, NY 10001",149.99
+2025-04-15,11ef,8813,USB-C Charging Cable,Phones and Accessories,"446 Maple St, Los Angeles, CA 90001",11.95
+2025-04-15,b384,dc52,Apple Airpods Headphones,Electronics,"364 Pine St, New York City, NY 10001",150.0
+2025-04-15,8ba9,b0be,20in Monitor,Accessories,"238 Forest St, Dallas, TX 75001",109.99
+2025-04-15,2218,9dc4,ThinkPad Laptop,Sports,"549 Lincoln St, San Francisco, CA 94016",999.99
+2025-04-15,0f49,3d69,Lightning Charging Cable,Accessories,"165 Jefferson St, New York City, NY 10001",14.95
+2025-04-15,c46f,f317,Bose SoundSport Headphones,Sports,"140 Main St, San Francisco, CA 94016",99.99
+2025-04-15,ad43,3c1e,USB-C Charging Cable,Sports,"339 Cedar St, San Francisco, CA 94016",11.95
+2025-04-15,413d,c616,AA Batteries (4-pack),Phones and Accessories,"348 Jackson St, Seattle, WA 98101",3.84
+2025-04-15,5b48,2daa,ThinkPad Laptop,Electronics,"760 Jackson St, Los Angeles, CA 90001",999.99
+2025-04-15,4c1f,a6bf,27in FHD Monitor,Accessories,"361 Main St, Los Angeles, CA 90001",149.99
+2025-04-15,f96c,5fbc,Wired Headphones,Accessories,"754 Pine St, San Francisco, CA 94016",11.99
+2025-04-15,cd5d,e43b,AAA Batteries (4-pack),Sports,"373 Chestnut St, Seattle, WA 98101",2.99
+2025-04-15,d9a7,6aa8,27in 4K Gaming Monitor,Phones and Accessories,"797 Forest St, Portland, OR 97035",389.99
+2025-04-15,5bd9,5557,Wired Headphones,Accessories,"816 South St, San Francisco, CA 94016",11.99
+2025-04-15,c229,5133,Bose SoundSport Headphones,Sports,"32 Wilson St, Boston, MA 02215",99.99
+2025-04-15,4e34,6469,Apple Airpods Headphones,Phones and Accessories,"763 River St, Los Angeles, CA 90001",150.0
+2025-04-15,4f57,4cd5,Wired Headphones,Accessories,"166 Pine St, Los Angeles, CA 90001",11.99
+2025-04-15,0377,2c8b,20in Monitor,Sports,"528 Maple St, Los Angeles, CA 90001",109.99
+2025-04-15,dba1,5e5f,AA Batteries (4-pack),Electronics,"269 Main St, Dallas, TX 75001",3.84
+2025-04-15,21ee,a3a9,Lightning Charging Cable,Sports,"782 Jefferson St, San Francisco, CA 94016",14.95
+2025-04-15,84e6,0493,34in Ultra-wide Monitor,Accessories,"428 Madison St, Seattle, WA 98101",379.99
+2025-04-15,e8a7,2109,34in Ultra-wide Monitor,Accessories,"521 Ridge St, San Francisco, CA 94016",379.99
+2025-04-15,6de6,f11e,Lightning Charging Cable,Electronics,"960 North St, San Francisco, CA 94016",14.95
+2025-04-15,9a75,ff81,AA Batteries (4-pack),Accessories,"896 Dogwood St, San Francisco, CA 94016",3.84
+2025-04-15,40ec,13dc,Apple Airpods Headphones,Accessories,"81 Maple St, San Francisco, CA 94016",150.0
+2025-04-15,ee36,aac8,USB-C Charging Cable,Phones and Accessories,"441 South St, San Francisco, CA 94016",11.95
+2025-04-15,2bfb,08cc,Apple Airpods Headphones,Accessories,"652 Chestnut St, Atlanta, GA 30301",150.0
+2025-04-15,9bba,786f,AA Batteries (4-pack),Sports,"595 South St, San Francisco, CA 94016",3.84
+2025-04-15,5fb6,13da,AAA Batteries (4-pack),Phones and Accessories,"623 9th St, Dallas, TX 75001",2.99
+2025-04-15,71c3,a6c1,AAA Batteries (4-pack),Phones and Accessories,"563 Wilson St, Seattle, WA 98101",2.99
+2025-04-15,22c7,f3b9,AA Batteries (4-pack),Sports,"55 Lakeview St, Los Angeles, CA 90001",3.84
+2025-04-15,a228,47fe,AA Batteries (4-pack),Sports,"320 River St, Dallas, TX 75001",3.84
+2025-04-15,9891,fa2e,Google Phone,Phones and Accessories,"74 1st St, Los Angeles, CA 90001",600.0
+2025-04-15,8e83,cf71,Wired Headphones,Sports,"544 West St, Portland, OR 97035",11.99
+2025-04-15,60b4,852f,iPhone,Accessories,"94 7th St, New York City, NY 10001",700.0
+2025-04-15,98dd,6207,AAA Batteries (4-pack),Electronics,"374 10th St, San Francisco, CA 94016",2.99
+2025-04-15,c53a,b492,iPhone,Electronics,"17 Spruce St, Los Angeles, CA 90001",700.0
+2025-04-15,5b56,2ab6,34in Ultra-wide Monitor,Electronics,"12 Cedar St, Boston, MA 02215",379.99
+2025-04-15,dace,ab40,Lightning Charging Cable,Sports,"962 Washington St, New York City, NY 10001",14.95
+2025-04-15,a3d7,bcc1,USB-C Charging Cable,Phones and Accessories,"800 Lincoln St, Atlanta, GA 30301",11.95
+2025-04-15,3f75,8024,AA Batteries (4-pack),Accessories,"888 Walnut St, San Francisco, CA 94016",3.84
+2025-04-15,5678,ac58,AA Batteries (4-pack),Phones and Accessories,"527 Lakeview St, New York City, NY 10001",3.84
+2025-04-15,c3c3,8c17,Apple Airpods Headphones,Electronics,"40 Wilson St, New York City, NY 10001",150.0
+2025-04-15,a272,adcf,AA Batteries (4-pack),Sports,"469 Lake St, Dallas, TX 75001",3.84
+2025-04-15,4fd9,50ed,AA Batteries (4-pack),Accessories,"455 14th St, San Francisco, CA 94016",3.84
+2025-04-15,2d63,c981,Google Phone,Accessories,"658 10th St, Dallas, TX 75001",600.0
+2025-04-15,c662,f06a,Flat-screen TV,Accessories,"986 South St, New York City, NY 10001",300.0
+2025-04-15,b1d3,74fb,AAA Batteries (4-pack),Accessories,"649 Pine St, Portland, OR 97035",2.99
+2025-04-15,9ccf,2f1b,Wireless buds,Sports,"239 13th St, Seattle, WA 98101",400.0
+2025-04-15,27c1,b968,USB-C Charging Cable,Sports,"239 13th St, Seattle, WA 98101",11.95
+2025-04-15,1370,7f89,Wired Headphones,Phones and Accessories,"239 13th St, Seattle, WA 98101",11.99
+2025-04-15,a1b9,df18,Google Phone,Accessories,"942 Maple St, Boston, MA 02215",600.0
+2025-04-15,5ea9,db9e,USB-C Charging Cable,Electronics,"942 Maple St, Boston, MA 02215",11.95
+2025-04-15,e3d2,86b0,Wired Headphones,Electronics,"706 Johnson St, New York City, NY 10001",11.99
+2025-04-15,043d,3752,ThinkPad Laptop,Sports,"550 Willow St, San Francisco, CA 94016",999.99
+2025-04-15,b200,b543,Apple Airpods Headphones,Sports,"945 Chestnut St, New York City, NY 10001",150.0
+2025-04-15,b4b4,c864,USB-C Charging Cable,Phones and Accessories,"140 Cherry St, Los Angeles, CA 90001",11.95
+2025-04-15,340b,8370,AAA Batteries (4-pack),Sports,"59 Adams St, Seattle, WA 98101",2.99
+2025-04-15,7af1,497b,USB-C Charging Cable,Accessories,"812 13th St, Seattle, WA 98101",11.95
+2025-04-15,e5d8,e2de,Apple Airpods Headphones,Sports,"613 8th St, Portland, OR 97035",150.0
+2025-04-15,9ea9,e786,AA Batteries (4-pack),Sports,"314 Center St, Portland, OR 97035",3.84
+2025-04-15,b084,4431,Wireless buds,Sports,"831 9th St, New York City, NY 10001",400.0
+2025-04-15,c532,2d59,Wired Headphones,Sports,"831 9th St, New York City, NY 10001",11.99
+2025-04-15,d072,eb18,Lightning Charging Cable,Sports,"902 Elm St, Boston, MA 02215",14.95
+2025-04-15,575a,40ac,Apple Airpods Headphones,Phones and Accessories,"742 Adams St, San Francisco, CA 94016",150.0
+2025-04-15,4b9c,fcdc,AAA Batteries (4-pack),Accessories,"380 Pine St, San Francisco, CA 94016",2.99
+2025-04-15,ef7b,93bc,Bose SoundSport Headphones,Sports,"420 5th St, San Francisco, CA 94016",99.99
+2025-04-15,b27f,832f,AAA Batteries (4-pack),Phones and Accessories,"576 Park St, Portland, OR 97035",2.99
+2025-04-15,5a9f,bbc4,Wired Headphones,Sports,"217 South St, Boston, MA 02215",11.99
+2025-04-15,ec5f,81d4,AAA Batteries (4-pack),Phones and Accessories,"415 1st St, Dallas, TX 75001",2.99
+2025-04-15,7b9b,16cd,Bose SoundSport Headphones,Electronics,"916 7th St, Atlanta, GA 30301",99.99
+2025-04-15,f160,2e98,Wired Headphones,Sports,"197 Ridge St, Boston, MA 02215",11.99
+2025-04-15,97d0,42cb,Wired Headphones,Electronics,"741 Lakeview St, Boston, MA 02215",11.99
+2025-04-15,0677,bdbe,Lightning Charging Cable,Phones and Accessories,"164 Elm St, San Francisco, CA 94016",14.95
+2025-04-15,ea86,d790,AA Batteries (4-pack),Sports,"985 Lakeview St, Atlanta, GA 30301",3.84
+2025-04-15,f0aa,fac7,Lightning Charging Cable,Sports,"556 South St, Austin, TX 73301",14.95
+2025-04-15,e02f,eb0b,USB-C Charging Cable,Accessories,"497 4th St, Seattle, WA 98101",11.95
+2025-04-15,fa3c,9add,Lightning Charging Cable,Phones and Accessories,"572 Hickory St, New York City, NY 10001",14.95
+2025-04-15,a936,1844,20in Monitor,Sports,"177 12th St, Los Angeles, CA 90001",109.99
+2025-04-15,1ea9,e852,27in FHD Monitor,Sports,"163 11th St, San Francisco, CA 94016",149.99
+2025-04-15,9fc1,5cdb,Apple Airpods Headphones,Phones and Accessories,"294 South St, Dallas, TX 75001",150.0
+2025-04-15,d383,4bf5,AA Batteries (4-pack),Electronics,"285 6th St, Boston, MA 02215",3.84
+2025-04-15,9ba7,a42a,20in Monitor,Phones and Accessories,"173 Church St, Los Angeles, CA 90001",109.99
+2025-04-15,c222,e396,USB-C Charging Cable,Electronics,"834 Wilson St, Boston, MA 02215",11.95
+2025-04-15,452e,e179,Lightning Charging Cable,Accessories,"943 4th St, Atlanta, GA 30301",14.95
+2025-04-15,fc16,bfc0,Wired Headphones,Accessories,"307 Walnut St, Los Angeles, CA 90001",11.99
+2025-04-15,a1e7,40e6,Flat-screen TV,Phones and Accessories,"546 Johnson St, Portland, OR 97035",300.0
+2025-04-15,f769,367e,34in Ultra-wide Monitor,Phones and Accessories,"365 Dogwood St, New York City, NY 10001",379.99
+2025-04-15,71fc,d536,Lightning Charging Cable,Accessories,"339 Washington St, San Francisco, CA 94016",14.95
+2025-04-15,a44b,d29d,USB-C Charging Cable,Sports,"131 South St, New York City, NY 10001",11.95
+2025-04-15,b394,bbb2,Macbook Pro Laptop,Sports,"852 13th St, Los Angeles, CA 90001",1700.0
+2025-04-15,0b49,cda4,34in Ultra-wide Monitor,Sports,"119 Walnut St, Dallas, TX 75001",379.99
+2025-04-15,48bf,8752,Lightning Charging Cable,Electronics,"119 Walnut St, Dallas, TX 75001",14.95
+2025-04-15,d450,ddb0,Bose SoundSport Headphones,Sports,"548 River St, Los Angeles, CA 90001",99.99
+2025-04-15,3796,9a81,20in Monitor,Sports,"469 Johnson St, Los Angeles, CA 90001",109.99
+2025-04-15,bffa,9704,AAA Batteries (4-pack),Sports,"968 Cedar St, San Francisco, CA 94016",2.99
+2025-04-15,1b26,0714,Lightning Charging Cable,Sports,"233 5th St, San Francisco, CA 94016",14.95
+2025-04-15,2d11,b683,20in Monitor,Sports,"618 8th St, New York City, NY 10001",109.99
+2025-04-15,80d5,3e6b,USB-C Charging Cable,Phones and Accessories,"324 Wilson St, San Francisco, CA 94016",11.95
+2025-04-15,e710,a6fc,USB-C Charging Cable,Accessories,"731 Lake St, San Francisco, CA 94016",11.95
+2025-04-15,41f1,ab83,Wired Headphones,Accessories,"731 Lake St, San Francisco, CA 94016",11.99
+2025-04-15,183e,a216,Lightning Charging Cable,Sports,"770 5th St, San Francisco, CA 94016",14.95
+2025-04-15,b657,59a9,Bose SoundSport Headphones,Accessories,"770 5th St, San Francisco, CA 94016",99.99
+2025-04-15,3ff4,d2d8,27in FHD Monitor,Phones and Accessories,"456 Meadow St, Los Angeles, CA 90001",149.99
+2025-04-15,56a2,7d4a,USB-C Charging Cable,Sports,"11 14th St, New York City, NY 10001",11.95
+2025-04-15,ab0d,7da4,AAA Batteries (4-pack),Sports,"374 8th St, Seattle, WA 98101",2.99
+2025-04-15,6fc1,eef8,ThinkPad Laptop,Accessories,"489 12th St, Boston, MA 02215",999.99
+2025-04-15,92ed,133e,Lightning Charging Cable,Electronics,"551 Ridge St, Portland, OR 97035",14.95
+2025-04-15,80b4,0c08,Macbook Pro Laptop,Accessories,"112 Maple St, Atlanta, GA 30301",1700.0
+2025-04-15,1af0,b43d,Google Phone,Sports,"349 Wilson St, San Francisco, CA 94016",600.0
+2025-04-15,19bf,e752,Lightning Charging Cable,Phones and Accessories,"340 Washington St, Seattle, WA 98101",14.95
+2025-04-15,64ac,6d2a,Flat-screen TV,Electronics,"5 Jefferson St, Dallas, TX 75001",300.0
+2025-04-15,feed,4d68,USB-C Charging Cable,Accessories,"229 Hickory St, San Francisco, CA 94016",11.95
+2025-04-15,df3c,5a9d,Lightning Charging Cable,Accessories,"24 Lakeview St, Atlanta, GA 30301",14.95
+2025-04-15,d7aa,60ec,Wired Headphones,Sports,"895 Cedar St, San Francisco, CA 94016",11.99
+2025-04-15,32cd,3c5b,AA Batteries (4-pack),Electronics,"548 9th St, Boston, MA 02215",3.84
+2025-04-15,cc4c,fafe,iPhone,Accessories,"512 Hickory St, Los Angeles, CA 90001",700.0
+2025-04-15,2ca9,1a87,AA Batteries (4-pack),Electronics,"915 Hill St, Boston, MA 02215",3.84
+2025-04-15,91fc,d4d2,Bose SoundSport Headphones,Phones and Accessories,"227 Wilson St, Dallas, TX 75001",99.99
+2025-04-15,c655,9151,AA Batteries (4-pack),Sports,"277 Washington St, Dallas, TX 75001",3.84
+2025-04-15,bad9,8016,Google Phone,Phones and Accessories,"303 10th St, Boston, MA 02215",600.0
+2025-04-15,ca71,a34f,Wired Headphones,Electronics,"303 10th St, Boston, MA 02215",11.99
+2025-04-15,5921,b756,Lightning Charging Cable,Electronics,"819 Jefferson St, Atlanta, GA 30301",14.95
+2025-04-15,6f75,c869,iPhone,Sports,"397 Meadow St, Los Angeles, CA 90001",700.0
+2025-04-15,7cb1,a0c0,Wired Headphones,Electronics,"397 Meadow St, Los Angeles, CA 90001",11.99
+2025-04-15,ac81,942e,Flat-screen TV,Electronics,"772 Madison St, Portland, ME 04101",300.0
+2025-04-15,a89c,05f7,27in FHD Monitor,Phones and Accessories,"127 North St, Los Angeles, CA 90001",149.99
+2025-04-15,c147,bcad,Apple Airpods Headphones,Sports,"136 11th St, Boston, MA 02215",150.0
+2025-04-15,9385,e3b9,Lightning Charging Cable,Electronics,"136 11th St, Boston, MA 02215",14.95
+2025-04-15,7c41,dcba,34in Ultra-wide Monitor,Accessories,"219 Elm St, New York City, NY 10001",379.99
+2025-04-15,df10,fcfd,Google Phone,Phones and Accessories,"52 Main St, San Francisco, CA 94016",600.0
+2025-04-15,cbd9,2c5b,iPhone,Sports,"52 Main St, San Francisco, CA 94016",700.0
+2025-04-15,e293,50df,AAA Batteries (4-pack),Sports,"612 Elm St, Atlanta, GA 30301",2.99
+2025-04-15,eaaa,0d5a,AAA Batteries (4-pack),Sports,"115 Main St, Los Angeles, CA 90001",2.99
+2025-04-15,82bc,f54e,AA Batteries (4-pack),Accessories,"879 5th St, Boston, MA 02215",3.84
+2025-04-15,0cc1,a5a4,USB-C Charging Cable,Electronics,"365 Forest St, San Francisco, CA 94016",11.95
+2025-04-15,10b9,2c19,27in FHD Monitor,Accessories,"353 Sunset St, Los Angeles, CA 90001",149.99
+2025-04-15,1b27,7dfb,Wired Headphones,Accessories,"181 Park St, Seattle, WA 98101",11.99
+2025-04-15,0cee,d209,Flat-screen TV,Phones and Accessories,"761 South St, Portland, ME 04101",300.0
+2025-04-15,e476,b480,Bose SoundSport Headphones,Accessories,"294 Walnut St, San Francisco, CA 94016",99.99
+2025-04-15,3064,d0ca,20in Monitor,Accessories,"859 12th St, San Francisco, CA 94016",109.99
+2025-04-15,8c40,94fb,27in FHD Monitor,Phones and Accessories,"624 Highland St, Atlanta, GA 30301",149.99
+2025-04-15,2bc0,1496,27in 4K Gaming Monitor,Electronics,"350 South St, Portland, OR 97035",389.99
+2025-04-15,13e4,684d,Wireless buds,Sports,"451 11th St, Atlanta, GA 30301",400.0
+2025-04-15,e68b,5ac5,Apple Airpods Headphones,Sports,"971 Center St, New York City, NY 10001",150.0
+2025-04-15,7115,ff63,Lightning Charging Cable,Electronics,"516 Pine St, San Francisco, CA 94016",14.95
+2025-04-15,4d9d,4164,Google Phone,Accessories,"917 Adams St, San Francisco, CA 94016",600.0
+2025-04-15,6627,1226,Bose SoundSport Headphones,Electronics,"833 11th St, Portland, OR 97035",99.99
+2025-04-15,3210,81f7,Bose SoundSport Headphones,Sports,"756 Spruce St, New York City, NY 10001",99.99
+2025-04-15,1369,b737,USB-C Charging Cable,Accessories,"581 14th St, Atlanta, GA 30301",11.95
+2025-04-15,5ca1,f2cb,AAA Batteries (4-pack),Electronics,"614 Wilson St, Boston, MA 02215",2.99
+2025-04-15,1027,0551,Bose SoundSport Headphones,Electronics,"882 Hickory St, Los Angeles, CA 90001",99.99
+2025-04-15,a888,dc49,iPhone,Electronics,"422 Jackson St, Seattle, WA 98101",700.0
+2025-04-15,1aef,b18b,Wired Headphones,Sports,"422 Jackson St, Seattle, WA 98101",11.99
+2025-04-15,4a82,ea7a,Lightning Charging Cable,Sports,"665 Church St, Dallas, TX 75001",14.95
+2025-04-15,d376,1a18,AA Batteries (4-pack),Sports,"152 South St, Austin, TX 73301",3.84
+2025-04-15,e694,b27f,Lightning Charging Cable,Phones and Accessories,"113 Center St, San Francisco, CA 94016",14.95
+2025-04-15,700e,4ab3,27in FHD Monitor,Sports,"191 Pine St, Portland, OR 97035",149.99
+2025-04-15,9f67,c7e8,AAA Batteries (4-pack),Phones and Accessories,"561 Madison St, San Francisco, CA 94016",2.99
+2025-04-15,c3f5,efb2,27in FHD Monitor,Electronics,"423 Church St, New York City, NY 10001",149.99
+2025-04-15,2170,77a7,27in 4K Gaming Monitor,Accessories,"957 Cherry St, Atlanta, GA 30301",389.99
+2025-04-15,8eb7,5b46,AAA Batteries (4-pack),Phones and Accessories,"566 Walnut St, Portland, ME 04101",2.99
+2025-04-15,1b3d,8531,27in FHD Monitor,Sports,"264 Pine St, San Francisco, CA 94016",149.99
+2025-04-15,677f,1fe8,Lightning Charging Cable,Sports,"334 9th St, San Francisco, CA 94016",14.95
+2025-04-15,6ffb,5d6a,Bose SoundSport Headphones,Accessories,"473 Johnson St, San Francisco, CA 94016",99.99
+2025-04-15,9d1b,ba95,USB-C Charging Cable,Accessories,"713 Jackson St, Los Angeles, CA 90001",11.95
+2025-04-15,f09f,6714,Bose SoundSport Headphones,Accessories,"577 4th St, Boston, MA 02215",99.99
+2025-04-15,aa5a,4117,27in FHD Monitor,Sports,"419 North St, Seattle, WA 98101",149.99
+2025-04-15,0e5c,3aa4,Wired Headphones,Sports,"160 Church St, San Francisco, CA 94016",11.99
+2025-04-15,524d,239b,iPhone,Sports,"411 11th St, San Francisco, CA 94016",700.0
+2025-04-15,e096,2d5b,iPhone,Phones and Accessories,"511 2nd St, Portland, OR 97035",700.0
+2025-04-15,9146,4ea5,Lightning Charging Cable,Sports,"511 2nd St, Portland, OR 97035",14.95
+2025-04-15,fa30,7f35,Apple Airpods Headphones,Accessories,"345 Walnut St, San Francisco, CA 94016",150.0
+2025-04-15,1297,cbe8,AAA Batteries (4-pack),Accessories,"707 Ridge St, San Francisco, CA 94016",2.99
+2025-04-15,0423,22c1,Bose SoundSport Headphones,Accessories,"662 10th St, Boston, MA 02215",99.99
+2025-04-15,6220,dc4b,Macbook Pro Laptop,Electronics,"332 River St, Boston, MA 02215",1700.0
+2025-04-15,c139,9457,Apple Airpods Headphones,Accessories,"205 1st St, Los Angeles, CA 90001",150.0
+2025-04-15,ef90,9805,AAA Batteries (4-pack),Sports,"294 North St, San Francisco, CA 94016",2.99
+2025-04-15,aea1,0dd7,27in 4K Gaming Monitor,Sports,"879 5th St, San Francisco, CA 94016",389.99
+2025-04-15,61b8,0f23,USB-C Charging Cable,Phones and Accessories,"378 Jefferson St, New York City, NY 10001",11.95
+2025-04-15,c364,1aa9,Lightning Charging Cable,Phones and Accessories,"811 2nd St, Dallas, TX 75001",14.95
+2025-04-15,9a82,95d9,USB-C Charging Cable,Sports,"194 River St, Atlanta, GA 30301",11.95
+2025-04-15,b569,5fcd,Lightning Charging Cable,Phones and Accessories,"330 Lincoln St, San Francisco, CA 94016",14.95
+2025-04-15,d833,95ef,AA Batteries (4-pack),Electronics,"463 11th St, Atlanta, GA 30301",3.84
+2025-04-15,f617,6bd1,20in Monitor,Sports,"766 Maple St, San Francisco, CA 94016",109.99
+2025-04-15,155d,f75b,Wired Headphones,Accessories,"766 Maple St, San Francisco, CA 94016",11.99
+2025-04-15,837c,9ccb,AAA Batteries (4-pack),Electronics,"779 Sunset St, San Francisco, CA 94016",2.99
+2025-04-15,2f07,3eff,Flat-screen TV,Phones and Accessories,"688 9th St, Los Angeles, CA 90001",300.0
+2025-04-15,a6ac,f03b,Google Phone,Electronics,"470 Washington St, San Francisco, CA 94016",600.0
+2025-04-15,4b3d,1544,Wired Headphones,Electronics,"941 Sunset St, Portland, ME 04101",11.99
+2025-04-15,9ba0,56ae,AA Batteries (4-pack),Accessories,"48 South St, Los Angeles, CA 90001",3.84
+2025-04-15,7dd9,8182,20in Monitor,Sports,"431 Cedar St, Los Angeles, CA 90001",109.99
+2025-04-15,efd6,ede2,AAA Batteries (4-pack),Electronics,"827 Lincoln St, Los Angeles, CA 90001",2.99
+2025-04-15,3955,d8bd,AA Batteries (4-pack),Accessories,"319 Hill St, Seattle, WA 98101",3.84
+2025-04-15,bec2,8cb8,Flat-screen TV,Electronics,"173 Jackson St, San Francisco, CA 94016",300.0
+2025-04-15,cc85,6f0f,Apple Airpods Headphones,Electronics,"758 Highland St, Los Angeles, CA 90001",150.0
+2025-04-15,3bde,d675,Apple Airpods Headphones,Accessories,"335 North St, San Francisco, CA 94016",150.0
+2025-04-15,c622,522b,iPhone,Accessories,"890 North St, Atlanta, GA 30301",700.0
+2025-04-15,039c,3534,ThinkPad Laptop,Sports,"425 Willow St, Atlanta, GA 30301",999.99
+2025-04-15,15cf,69de,iPhone,Phones and Accessories,"230 North St, Austin, TX 73301",700.0
+2025-04-15,3ee5,eea7,Apple Airpods Headphones,Accessories,"230 North St, Austin, TX 73301",150.0
+2025-04-15,2d9e,573f,AAA Batteries (4-pack),Sports,"975 Church St, Atlanta, GA 30301",2.99
+2025-04-15,74a4,6f91,Google Phone,Electronics,"549 Cherry St, New York City, NY 10001",600.0
+2025-04-15,eccf,c3d0,USB-C Charging Cable,Sports,"549 Cherry St, New York City, NY 10001",11.95
+2025-04-15,a809,9f0e,Lightning Charging Cable,Electronics,"874 Church St, San Francisco, CA 94016",14.95
+2025-04-15,7820,fa74,Lightning Charging Cable,Sports,"166 5th St, Dallas, TX 75001",14.95
+2025-04-15,6043,7586,Lightning Charging Cable,Accessories,"461 Hill St, Boston, MA 02215",14.95
+2025-04-15,84f0,91a7,Flat-screen TV,Phones and Accessories,"22 Washington St, Seattle, WA 98101",300.0
+2025-04-15,171d,87d0,USB-C Charging Cable,Phones and Accessories,"510 Madison St, Los Angeles, CA 90001",11.95
+2025-04-15,640c,8257,ThinkPad Laptop,Sports,"902 Cherry St, San Francisco, CA 94016",999.99
+2025-04-15,9c49,89ff,Wired Headphones,Sports,"775 14th St, New York City, NY 10001",11.99
+2025-04-15,fb48,72b3,AA Batteries (4-pack),Electronics,"896 Church St, San Francisco, CA 94016",3.84
+2025-04-15,1988,94b4,Google Phone,Phones and Accessories,"628 11th St, Portland, OR 97035",600.0
+2025-04-15,c0a9,d4a7,Wired Headphones,Accessories,"628 11th St, Portland, OR 97035",11.99
+2025-04-15,72a6,c20d,AAA Batteries (4-pack),Phones and Accessories,"184 Sunset St, Portland, OR 97035",2.99
+2025-04-15,d750,28a3,27in FHD Monitor,Phones and Accessories,"581 West St, Portland, OR 97035",149.99
+2025-04-15,6109,9645,USB-C Charging Cable,Electronics,"269 Johnson St, Austin, TX 73301",11.95
+2025-04-15,9ffd,3f3e,Macbook Pro Laptop,Accessories,"731 10th St, San Francisco, CA 94016",1700.0
+2025-04-15,fbdc,aafb,Apple Airpods Headphones,Sports,"424 South St, Seattle, WA 98101",150.0
+2025-04-15,a406,6b98,Bose SoundSport Headphones,Accessories,"524 Spruce St, San Francisco, CA 94016",99.99
+2025-04-15,f128,894b,Bose SoundSport Headphones,Phones and Accessories,"781 Lakeview St, Austin, TX 73301",99.99
+2025-04-15,231f,1ce1,USB-C Charging Cable,Accessories,"342 Wilson St, Seattle, WA 98101",11.95
+2025-04-15,8efb,daa2,Google Phone,Sports,"42 Madison St, New York City, NY 10001",600.0
+2025-04-15,d270,1c01,iPhone,Electronics,"621 12th St, Los Angeles, CA 90001",700.0
+2025-04-15,eb04,0a24,Macbook Pro Laptop,Electronics,"486 South St, Los Angeles, CA 90001",1700.0
+2025-04-15,a422,fc8c,Lightning Charging Cable,Phones and Accessories,"754 13th St, New York City, NY 10001",14.95
+2025-04-15,e355,9923,AA Batteries (4-pack),Sports,"776 Center St, San Francisco, CA 94016",3.84
+2025-04-15,2dee,a65c,Wired Headphones,Phones and Accessories,"930 Church St, San Francisco, CA 94016",11.99
+2025-04-15,2953,5d09,AAA Batteries (4-pack),Accessories,"153 Willow St, Dallas, TX 75001",2.99
+2025-04-15,c335,2b40,AA Batteries (4-pack),Sports,"710 Cherry St, New York City, NY 10001",3.84
+2025-04-15,3088,24cb,AAA Batteries (4-pack),Phones and Accessories,"820 West St, San Francisco, CA 94016",2.99
+2025-04-15,ede9,c89d,27in 4K Gaming Monitor,Phones and Accessories,"110 Dogwood St, Seattle, WA 98101",389.99
+2025-04-15,b57e,dfc9,27in FHD Monitor,Sports,"149 Ridge St, Los Angeles, CA 90001",149.99
+2025-04-15,661f,5eb0,27in 4K Gaming Monitor,Electronics,"469 Elm St, Los Angeles, CA 90001",389.99
+2025-04-15,0d0a,a658,AAA Batteries (4-pack),Accessories,"541 Maple St, Los Angeles, CA 90001",2.99
+2025-04-15,1851,16bb,USB-C Charging Cable,Electronics,"356 14th St, Portland, ME 04101",11.95
+2025-04-15,7d79,408d,AA Batteries (4-pack),Sports,"131 2nd St, Boston, MA 02215",3.84
+2025-04-15,326a,f9aa,AA Batteries (4-pack),Phones and Accessories,"131 2nd St, Boston, MA 02215",3.84
+2025-04-15,8bd5,f91e,ThinkPad Laptop,Phones and Accessories,"961 Church St, Dallas, TX 75001",999.99
+2025-04-15,423d,70cc,Wired Headphones,Phones and Accessories,"237 Chestnut St, Portland, OR 97035",11.99
+2025-04-15,5d4a,803f,Bose SoundSport Headphones,Phones and Accessories,"643 Elm St, Boston, MA 02215",99.99
+2025-04-15,3332,a69c,Wired Headphones,Electronics,"668 Maple St, San Francisco, CA 94016",11.99
+2025-04-15,7865,4aed,Wired Headphones,Electronics,"927 Johnson St, San Francisco, CA 94016",11.99
+2025-04-15,bbf4,c8f0,Apple Airpods Headphones,Accessories,"912 9th St, Portland, OR 97035",150.0
+2025-04-15,0093,da6a,AA Batteries (4-pack),Phones and Accessories,"37 Meadow St, Dallas, TX 75001",3.84
+2025-04-15,ad61,e591,AA Batteries (4-pack),Accessories,"183 Park St, Dallas, TX 75001",3.84
+2025-04-15,f948,ae79,USB-C Charging Cable,Accessories,"541 13th St, Portland, OR 97035",11.95
+2025-04-15,a8b8,b277,AAA Batteries (4-pack),Electronics,"758 Forest St, San Francisco, CA 94016",2.99
+2025-04-15,d7e3,120e,AAA Batteries (4-pack),Electronics,"396 Hill St, New York City, NY 10001",2.99
+2025-04-15,af22,2ec7,Macbook Pro Laptop,Electronics,"977 Jackson St, Portland, OR 97035",1700.0
+2025-04-15,50e8,81ae,USB-C Charging Cable,Phones and Accessories,"442 Washington St, Seattle, WA 98101",11.95
+2025-04-15,47e1,8a4b,iPhone,Accessories,"577 13th St, Los Angeles, CA 90001",700.0
+2025-04-15,ea9e,592f,Lightning Charging Cable,Sports,"577 13th St, Los Angeles, CA 90001",14.95
+2025-04-15,2ab4,9808,Lightning Charging Cable,Electronics,"440 Spruce St, Atlanta, GA 30301",14.95
+2025-04-15,96ef,396d,27in 4K Gaming Monitor,Phones and Accessories,"119 Dogwood St, San Francisco, CA 94016",389.99
+2025-04-15,93cd,0bce,Google Phone,Accessories,"43 Sunset St, Seattle, WA 98101",600.0
+2025-04-15,56f7,56cb,USB-C Charging Cable,Electronics,"529 13th St, Seattle, WA 98101",11.95
+2025-04-15,0cee,29d7,Wired Headphones,Sports,"940 Pine St, Portland, ME 04101",11.99
+2025-04-15,5fbf,74cd,AAA Batteries (4-pack),Sports,"337 West St, San Francisco, CA 94016",2.99
+2025-04-15,f904,e2e9,Bose SoundSport Headphones,Phones and Accessories,"473 Lincoln St, Los Angeles, CA 90001",99.99
+2025-04-15,9a6c,6152,Lightning Charging Cable,Sports,"342 Lake St, San Francisco, CA 94016",14.95
+2025-04-15,b635,b835,Wired Headphones,Sports,"396 South St, Boston, MA 02215",11.99
+2025-04-15,9b37,c849,Apple Airpods Headphones,Sports,"528 Center St, Los Angeles, CA 90001",150.0
+2025-04-15,ae49,2a26,USB-C Charging Cable,Sports,"354 Hill St, Los Angeles, CA 90001",11.95
+2025-04-15,e6b1,182f,Lightning Charging Cable,Accessories,"608 South St, Los Angeles, CA 90001",14.95
+2025-04-15,1e34,0fcf,AA Batteries (4-pack),Electronics,"295 Hickory St, Los Angeles, CA 90001",3.84
+2025-04-15,83b1,853c,AA Batteries (4-pack),Electronics,"389 South St, Dallas, TX 75001",3.84
+2025-04-15,5d0d,d74e,Bose SoundSport Headphones,Electronics,"791 2nd St, New York City, NY 10001",99.99
+2025-04-15,1918,b06f,iPhone,Sports,"608 8th St, Atlanta, GA 30301",700.0
+2025-04-15,bd18,09c9,AAA Batteries (4-pack),Sports,"427 Chestnut St, New York City, NY 10001",2.99
+2025-04-15,fc60,e202,iPhone,Sports,"600 Center St, Boston, MA 02215",700.0
+2025-04-15,1ce5,5ead,Apple Airpods Headphones,Electronics,"184 Madison St, San Francisco, CA 94016",150.0
+2025-04-15,bb5d,783f,ThinkPad Laptop,Accessories,"306 14th St, Portland, OR 97035",999.99
+2025-04-15,2d98,cb57,27in 4K Gaming Monitor,Accessories,"841 Walnut St, Dallas, TX 75001",389.99
+2025-04-15,fa12,aff1,Lightning Charging Cable,Sports,"653 Lincoln St, Portland, ME 04101",14.95
+2025-04-15,ef90,7e9a,LG Dryer,Sports,"183 Elm St, New York City, NY 10001",600.0
+2025-04-15,8d77,e80e,Macbook Pro Laptop,Accessories,"551 13th St, Portland, ME 04101",1700.0
+2025-04-15,ea2e,9de3,USB-C Charging Cable,Sports,"277 Highland St, San Francisco, CA 94016",11.95
+2025-04-15,ea4f,f24a,Lightning Charging Cable,Phones and Accessories,"104 Cedar St, New York City, NY 10001",14.95
+2025-04-15,ffe5,cdef,20in Monitor,Electronics,"625 Elm St, Boston, MA 02215",109.99
+2025-04-15,2f6d,f3b8,Bose SoundSport Headphones,Accessories,"625 Elm St, Boston, MA 02215",99.99
+2025-04-15,6efa,d3f2,AAA Batteries (4-pack),Electronics,"198 Lakeview St, San Francisco, CA 94016",2.99
+2025-04-15,c607,ec15,Bose SoundSport Headphones,Accessories,"838 Johnson St, San Francisco, CA 94016",99.99
+2025-04-15,29bc,abfe,Apple Airpods Headphones,Sports,"547 2nd St, Austin, TX 73301",150.0
+2025-04-15,a56b,ea9e,AA Batteries (4-pack),Accessories,"568 5th St, San Francisco, CA 94016",3.84
+2025-04-15,edbc,cd85,Macbook Pro Laptop,Accessories,"305 Jefferson St, Boston, MA 02215",1700.0
+2025-04-15,a8e5,ed4d,Bose SoundSport Headphones,Accessories,"818 West St, Seattle, WA 98101",99.99
+2025-04-15,879c,9c98,USB-C Charging Cable,Electronics,"37 7th St, Atlanta, GA 30301",11.95
+2025-04-15,5d24,0b72,27in 4K Gaming Monitor,Accessories,"649 Spruce St, Atlanta, GA 30301",389.99
+2025-04-15,a635,7bcc,Wired Headphones,Electronics,"37 South St, Atlanta, GA 30301",11.99
+2025-04-15,feb9,5b79,Apple Airpods Headphones,Accessories,"331 7th St, Portland, OR 97035",150.0
+2025-04-15,1b18,e533,Lightning Charging Cable,Sports,"253 14th St, San Francisco, CA 94016",14.95
+2025-04-15,ebca,4405,AA Batteries (4-pack),Electronics,"291 Lincoln St, San Francisco, CA 94016",3.84
+2025-04-15,c307,4e9e,Lightning Charging Cable,Sports,"841 7th St, Boston, MA 02215",14.95
+2025-04-15,c33a,d3d6,AAA Batteries (4-pack),Electronics,"41 7th St, San Francisco, CA 94016",2.99
+2025-04-15,3f64,b6fe,Wired Headphones,Sports,"678 9th St, New York City, NY 10001",11.99
+2025-04-15,bf3f,c00e,Google Phone,Electronics,"752 2nd St, Austin, TX 73301",600.0
+2025-04-15,d21b,5caa,Bose SoundSport Headphones,Phones and Accessories,"752 2nd St, Austin, TX 73301",99.99
+2025-04-15,4112,cc6f,Wired Headphones,Phones and Accessories,"752 2nd St, Austin, TX 73301",11.99
+2025-04-15,d161,4d2f,Apple Airpods Headphones,Sports,"685 10th St, Atlanta, GA 30301",150.0
+2025-04-15,e649,5502,Google Phone,Electronics,"640 11th St, Portland, OR 97035",600.0
+2025-04-15,5412,7171,AAA Batteries (4-pack),Sports,"250 12th St, Boston, MA 02215",2.99
+2025-04-15,7345,d3b5,USB-C Charging Cable,Phones and Accessories,"664 Maple St, Boston, MA 02215",11.95
+2025-04-15,5821,2529,USB-C Charging Cable,Accessories,"164 5th St, Boston, MA 02215",11.95
+2025-04-15,061e,5e61,Google Phone,Phones and Accessories,"734 River St, New York City, NY 10001",600.0
+2025-04-15,7d76,602f,USB-C Charging Cable,Phones and Accessories,"358 Hill St, San Francisco, CA 94016",11.95
+2025-04-15,ea72,2bb9,AA Batteries (4-pack),Electronics,"944 Ridge St, Seattle, WA 98101",3.84
+2025-04-15,1239,b7d5,AAA Batteries (4-pack),Sports,"789 13th St, Los Angeles, CA 90001",2.99
+2025-04-15,d541,cb27,AA Batteries (4-pack),Sports,"531 West St, Boston, MA 02215",3.84
+2025-04-15,e04c,19f3,AA Batteries (4-pack),Sports,"846 11th St, San Francisco, CA 94016",3.84
+2025-04-15,a58a,d696,Lightning Charging Cable,Sports,"293 Hill St, Austin, TX 73301",14.95
+2025-04-15,4e3d,f5eb,Wired Headphones,Sports,"799 Hickory St, Atlanta, GA 30301",11.99
+2025-04-15,9154,9a58,Wired Headphones,Accessories,"804 Willow St, Seattle, WA 98101",11.99
+2025-04-15,8de7,4e52,USB-C Charging Cable,Sports,"706 Elm St, San Francisco, CA 94016",11.95
+2025-04-15,c19e,2c60,Wireless buds,Electronics,"399 Lincoln St, New York City, NY 10001",400.0
+2025-04-15,f6e8,50d7,USB-C Charging Cable,Sports,"399 Lincoln St, New York City, NY 10001",11.95
+2025-04-15,a9a1,b805,Apple Airpods Headphones,Sports,"899 6th St, San Francisco, CA 94016",150.0
+2025-04-15,1c10,ae12,USB-C Charging Cable,Electronics,"899 6th St, San Francisco, CA 94016",11.95
+2025-04-15,3cbb,cb0c,AAA Batteries (4-pack),Phones and Accessories,"628 North St, New York City, NY 10001",2.99
+2025-04-15,90cf,2845,27in 4K Gaming Monitor,Phones and Accessories,"799 Forest St, San Francisco, CA 94016",389.99
+2025-04-15,da65,8499,34in Ultra-wide Monitor,Accessories,"104 4th St, Los Angeles, CA 90001",379.99
+2025-04-15,a26a,3889,AA Batteries (4-pack),Sports,"935 Main St, New York City, NY 10001",3.84
+2025-04-15,94d8,0c0e,AA Batteries (4-pack),Accessories,"728 Main St, Seattle, WA 98101",3.84
+2025-04-15,68ae,4c23,AA Batteries (4-pack),Sports,"384 4th St, San Francisco, CA 94016",3.84
+2025-04-15,b70a,25d4,Macbook Pro Laptop,Phones and Accessories,"231 Washington St, San Francisco, CA 94016",1700.0
+2025-04-15,b17d,741b,Wired Headphones,Accessories,"831 Dogwood St, Los Angeles, CA 90001",11.99
+2025-04-15,9ad7,41db,USB-C Charging Cable,Electronics,"579 4th St, Atlanta, GA 30301",11.95
+2025-04-15,fb7a,2f33,Apple Airpods Headphones,Electronics,"423 Main St, Atlanta, GA 30301",150.0
+2025-04-15,d9d0,b030,34in Ultra-wide Monitor,Accessories,"540 2nd St, San Francisco, CA 94016",379.99
+2025-04-15,c0c7,16bc,Macbook Pro Laptop,Electronics,"638 5th St, Portland, OR 97035",1700.0
+2025-04-15,c2ca,9448,Wired Headphones,Accessories,"797 Lincoln St, Boston, MA 02215",11.99
+2025-04-15,9b40,52f6,Wired Headphones,Sports,"429 Lake St, Boston, MA 02215",11.99
+2025-04-15,2569,092f,Wired Headphones,Phones and Accessories,"636 14th St, Los Angeles, CA 90001",11.99
+2025-04-15,b9d3,b366,Bose SoundSport Headphones,Electronics,"330 Lake St, Dallas, TX 75001",99.99
+2025-04-15,11af,3541,27in FHD Monitor,Accessories,"671 Highland St, San Francisco, CA 94016",149.99
+2025-04-15,4318,277a,Apple Airpods Headphones,Sports,"703 Walnut St, Dallas, TX 75001",150.0
+2025-04-15,14a8,688d,USB-C Charging Cable,Sports,"509 11th St, Dallas, TX 75001",11.95
+2025-04-15,3d60,adbf,AA Batteries (4-pack),Accessories,"749 Jackson St, Seattle, WA 98101",3.84
+2025-04-15,b1df,c17e,USB-C Charging Cable,Accessories,"616 Johnson St, Boston, MA 02215",11.95
+2025-04-15,ae0e,5559,USB-C Charging Cable,Accessories,"471 14th St, New York City, NY 10001",11.95
+2025-04-15,2a05,7dfa,Lightning Charging Cable,Electronics,"745 Jefferson St, Atlanta, GA 30301",14.95
+2025-04-15,be74,ce24,AAA Batteries (4-pack),Electronics,"398 Lakeview St, New York City, NY 10001",2.99
+2025-04-15,b7e0,6c26,Wired Headphones,Sports,"663 12th St, Atlanta, GA 30301",11.99
+2025-04-15,b3d4,ae2e,Wired Headphones,Sports,"610 Sunset St, New York City, NY 10001",11.99
+2025-04-15,8c82,a08e,Apple Airpods Headphones,Accessories,"491 Johnson St, Atlanta, GA 30301",150.0
+2025-04-15,459d,f15e,iPhone,Accessories,"674 Lake St, Los Angeles, CA 90001",700.0
+2025-04-15,832e,80a8,Lightning Charging Cable,Electronics,"338 Lake St, Boston, MA 02215",14.95
+2025-04-15,37bb,605d,AAA Batteries (4-pack),Sports,"221 Lake St, San Francisco, CA 94016",2.99
+2025-04-15,5afc,43b6,Apple Airpods Headphones,Sports,"782 Highland St, San Francisco, CA 94016",150.0
+2025-04-15,e3f4,f681,Macbook Pro Laptop,Sports,"754 1st St, Portland, ME 04101",1700.0
+2025-04-15,2b7f,1975,AAA Batteries (4-pack),Accessories,"877 10th St, Seattle, WA 98101",2.99
+2025-04-15,afc0,b369,ThinkPad Laptop,Electronics,"585 Meadow St, San Francisco, CA 94016",999.99
+2025-04-15,62c6,76e9,USB-C Charging Cable,Sports,"455 Sunset St, Austin, TX 73301",11.95
+2025-04-15,c982,9042,27in FHD Monitor,Sports,"419 8th St, Boston, MA 02215",149.99
+2025-04-15,862e,0279,Wired Headphones,Phones and Accessories,"92 Highland St, New York City, NY 10001",11.99
+2025-04-15,8bfa,2738,34in Ultra-wide Monitor,Phones and Accessories,"406 Johnson St, Boston, MA 02215",379.99
+2025-04-15,6888,0cd2,AAA Batteries (4-pack),Accessories,"342 13th St, Los Angeles, CA 90001",2.99
+2025-04-15,db16,f309,Bose SoundSport Headphones,Sports,"208 West St, Boston, MA 02215",99.99
+2025-04-15,4885,0a7a,34in Ultra-wide Monitor,Sports,"505 Wilson St, Los Angeles, CA 90001",379.99
+2025-04-15,63f0,34af,20in Monitor,Accessories,"903 Maple St, Portland, OR 97035",109.99
+2025-04-15,4e69,0de0,USB-C Charging Cable,Sports,"347 11th St, Los Angeles, CA 90001",11.95
+2025-04-15,87c1,c09d,USB-C Charging Cable,Accessories,"215 Jefferson St, Austin, TX 73301",11.95
+2025-04-15,9dc3,1fe5,34in Ultra-wide Monitor,Phones and Accessories,"356 Walnut St, San Francisco, CA 94016",379.99
+2025-04-15,e1d4,a93f,20in Monitor,Phones and Accessories,"246 Chestnut St, San Francisco, CA 94016",109.99
+2025-04-15,5e12,606c,Google Phone,Electronics,"68 11th St, Boston, MA 02215",600.0
+2025-04-15,2967,f9ad,USB-C Charging Cable,Accessories,"68 11th St, Boston, MA 02215",11.95
+2025-04-15,e136,2959,27in FHD Monitor,Sports,"912 Cherry St, Boston, MA 02215",149.99
+2025-04-15,f48d,845d,ThinkPad Laptop,Electronics,"2 River St, Los Angeles, CA 90001",999.99
+2025-04-15,7700,d43d,Apple Airpods Headphones,Accessories,"468 Jefferson St, Boston, MA 02215",150.0
+2025-04-15,cc5f,9b6f,AA Batteries (4-pack),Accessories,"692 8th St, Portland, ME 04101",3.84
+2025-04-15,59cf,39e4,AA Batteries (4-pack),Sports,"642 Center St, San Francisco, CA 94016",3.84
+2025-04-15,8836,d4c4,AA Batteries (4-pack),Sports,"833 Walnut St, San Francisco, CA 94016",3.84
+2025-04-15,793a,34a5,20in Monitor,Accessories,"568 Willow St, Dallas, TX 75001",109.99
+2025-04-15,2e63,3d22,Flat-screen TV,Electronics,"381 Elm St, Seattle, WA 98101",300.0
+2025-04-15,3994,d99d,AAA Batteries (4-pack),Phones and Accessories,"996 Dogwood St, San Francisco, CA 94016",2.99
+2025-04-15,8ae5,56c3,27in FHD Monitor,Sports,"581 Lakeview St, Dallas, TX 75001",149.99
+2025-04-15,f12f,e14f,Bose SoundSport Headphones,Phones and Accessories,"272 Johnson St, Seattle, WA 98101",99.99
+2025-04-15,287a,829a,Bose SoundSport Headphones,Electronics,"585 2nd St, Los Angeles, CA 90001",99.99
+2025-04-15,b353,0510,Bose SoundSport Headphones,Sports,"263 West St, New York City, NY 10001",99.99
+2025-04-15,759d,11c2,Macbook Pro Laptop,Phones and Accessories,"673 13th St, San Francisco, CA 94016",1700.0
+2025-04-15,2831,7f2d,Bose SoundSport Headphones,Electronics,"358 Wilson St, Seattle, WA 98101",99.99
+2025-04-15,86d6,de94,Bose SoundSport Headphones,Phones and Accessories,"218 West St, New York City, NY 10001",99.99
+2025-04-15,c5e8,36c8,34in Ultra-wide Monitor,Electronics,"536 River St, Austin, TX 73301",379.99
+2025-04-15,5441,5ff3,AA Batteries (4-pack),Electronics,"322 13th St, San Francisco, CA 94016",3.84
+2025-04-15,4c2d,00f9,Wired Headphones,Accessories,"663 River St, New York City, NY 10001",11.99
+2025-04-15,8369,b1ce,AA Batteries (4-pack),Sports,"172 10th St, Los Angeles, CA 90001",3.84
+2025-04-15,0d91,74f8,Apple Airpods Headphones,Accessories,"641 13th St, New York City, NY 10001",150.0
+2025-04-15,e5d7,341f,AAA Batteries (4-pack),Electronics,"945 4th St, Los Angeles, CA 90001",2.99
+2025-04-15,c5c4,1c59,Flat-screen TV,Sports,"555 Jefferson St, Dallas, TX 75001",300.0
+2025-04-15,9ea7,45e4,AAA Batteries (4-pack),Accessories,"63 2nd St, San Francisco, CA 94016",2.99
+2025-04-15,4682,0284,Bose SoundSport Headphones,Accessories,"520 Madison St, Los Angeles, CA 90001",99.99
+2025-04-15,5cab,05aa,Wired Headphones,Electronics,"246 Sunset St, San Francisco, CA 94016",11.99
+2025-04-15,83af,9e1d,27in FHD Monitor,Accessories,"882 Pine St, Los Angeles, CA 90001",149.99
+2025-04-15,49b5,1d01,Flat-screen TV,Accessories,"516 Lake St, Dallas, TX 75001",300.0
+2025-04-15,e1ed,8127,Flat-screen TV,Electronics,"503 Adams St, Portland, OR 97035",300.0
+2025-04-15,b746,bd45,AA Batteries (4-pack),Phones and Accessories,"23 5th St, Los Angeles, CA 90001",3.84
+2025-04-15,9fe2,1fc6,Wired Headphones,Phones and Accessories,"882 11th St, San Francisco, CA 94016",11.99
+2025-04-15,8f39,b779,USB-C Charging Cable,Phones and Accessories,"740 Washington St, Los Angeles, CA 90001",11.95
+2025-04-15,ca74,9d9e,Lightning Charging Cable,Sports,"869 Madison St, New York City, NY 10001",14.95
+2025-04-15,e7dc,5ec3,AAA Batteries (4-pack),Sports,"103 Willow St, Austin, TX 73301",2.99
+2025-04-15,3074,bd56,Wired Headphones,Sports,"954 North St, Austin, TX 73301",11.99
+2025-04-15,f1d0,5aa0,Macbook Pro Laptop,Accessories,"639 Lakeview St, San Francisco, CA 94016",1700.0
+2025-04-15,1050,210f,27in FHD Monitor,Electronics,"45 Lincoln St, Seattle, WA 98101",149.99
+2025-04-15,5e4a,a77d,Google Phone,Sports,"867 Cedar St, San Francisco, CA 94016",600.0
+2025-04-15,9cc8,b554,USB-C Charging Cable,Accessories,"867 Cedar St, San Francisco, CA 94016",11.95
+2025-04-15,0d28,197e,Wired Headphones,Sports,"142 Sunset St, Portland, OR 97035",11.99
+2025-04-15,2c2c,6cbc,Wired Headphones,Electronics,"776 12th St, Los Angeles, CA 90001",11.99
+2025-04-15,f7f2,1ebf,Lightning Charging Cable,Sports,"389 Highland St, Los Angeles, CA 90001",14.95
+2025-04-15,bbd3,b530,Lightning Charging Cable,Accessories,"124 Church St, Los Angeles, CA 90001",14.95
+2025-04-15,e257,cc67,AA Batteries (4-pack),Electronics,"417 Washington St, Los Angeles, CA 90001",3.84
+2025-04-15,0054,49f1,AAA Batteries (4-pack),Accessories,"61 12th St, Los Angeles, CA 90001",2.99
+2025-04-15,68fc,38a8,AAA Batteries (4-pack),Accessories,"419 10th St, Los Angeles, CA 90001",2.99
+2025-04-15,6813,047d,AA Batteries (4-pack),Electronics,"82 Johnson St, Los Angeles, CA 90001",3.84
+2025-04-15,98ab,330b,AA Batteries (4-pack),Phones and Accessories,"344 12th St, Boston, MA 02215",3.84
+2025-04-15,486f,ea67,34in Ultra-wide Monitor,Electronics,"966 Jefferson St, Dallas, TX 75001",379.99
+2025-04-15,6400,bf96,USB-C Charging Cable,Sports,"303 Pine St, Dallas, TX 75001",11.95
+2025-04-15,c08b,2c03,USB-C Charging Cable,Accessories,"503 Forest St, Portland, OR 97035",11.95
+2025-04-15,662f,7d73,USB-C Charging Cable,Accessories,"567 Church St, San Francisco, CA 94016",11.95
+2025-04-15,6b68,edf3,AA Batteries (4-pack),Electronics,"944 Pine St, Austin, TX 73301",3.84
+2025-04-15,1b19,a377,Macbook Pro Laptop,Sports,"245 Sunset St, San Francisco, CA 94016",1700.0
+2025-04-15,f582,75ca,Lightning Charging Cable,Sports,"265 River St, Portland, OR 97035",14.95
+2025-04-15,f737,3bb3,Bose SoundSport Headphones,Phones and Accessories,"229 14th St, Atlanta, GA 30301",99.99
+2025-04-15,a95d,9f73,Wired Headphones,Sports,"676 Forest St, New York City, NY 10001",11.99
+2025-04-15,e40b,5f75,Lightning Charging Cable,Accessories,"819 6th St, Boston, MA 02215",14.95
+2025-04-15,6501,ea7f,Lightning Charging Cable,Sports,"996 North St, Austin, TX 73301",14.95
+2025-04-15,a667,97b7,ThinkPad Laptop,Phones and Accessories,"600 Johnson St, San Francisco, CA 94016",999.99
+2025-04-15,7955,f0fe,USB-C Charging Cable,Phones and Accessories,"16 9th St, New York City, NY 10001",11.95
+2025-04-15,f715,43a8,27in FHD Monitor,Phones and Accessories,"295 Jefferson St, Los Angeles, CA 90001",149.99
+2025-04-15,dea9,7998,Wired Headphones,Electronics,"944 Dogwood St, Seattle, WA 98101",11.99
+2025-04-15,b1cb,e538,Flat-screen TV,Phones and Accessories,"568 Walnut St, San Francisco, CA 94016",300.0
+2025-04-15,b115,7ec8,AAA Batteries (4-pack),Sports,"226 Jefferson St, San Francisco, CA 94016",2.99
+2025-04-15,91d2,0ef4,iPhone,Phones and Accessories,"774 2nd St, Atlanta, GA 30301",700.0
+2025-04-15,4664,5f41,Lightning Charging Cable,Sports,"251 Lakeview St, Atlanta, GA 30301",14.95
+2025-04-15,e350,d56a,LG Dryer,Phones and Accessories,"413 Sunset St, New York City, NY 10001",600.0

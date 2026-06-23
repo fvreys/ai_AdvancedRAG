@@ -1,0 +1,341 @@
+{
+  "knowledge-base": [
+    {
+      "question": "How can I create an account?",
+      "answer": "To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process.",
+      "meta": {
+        "scraped_at": "2025-04-13T19:30:56.315572Z",
+        "scrape_timestamp": 1744561856,
+        "last_updated": "13-04-2025 19:30:56",
+        "source_url": "https://www.hypersite.com/653d0f68-901a-49ea-98a9-6e41a3a1dcf8",
+        "referrer_url": "https://search.hypersite.com?q=5d96ad5f-6ef9-4264-a30f-98823606ef15",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/572.0 (KHTML, like Gecko) Chrome/80.0.4083.0 Safari/541.0",
+        "debug_info": "Page loaded in 1.66s, parsed with BeautifulSoup 5.6.8",
+        "geolocation": {
+          "latitude": "-42.3376",
+          "longitude": "156.7062"
+        },
+        "misc": {
+          "temp": "07b7d2",
+          "promo_code": "CODE3786",
+          "encoding_issue": "r\u00e9sum\u00e9",
+          "internal_code": "41CD26B3",
+          "extra_info": "fc42126c56"
+        }
+      }
+    },
+    {
+      "policy": "You can return products within 30 days of purchase for a full refund, provided they are in their original condition and packaging.",
+      "meta": {
+        "scraped_at": "2025-04-13T21:38:19.316020Z",
+        "scrape_timestamp": 1744569499,
+        "last_updated": "13-04-2025 21:38:19",
+        "source_url": "https://www.hypersite.com/48ba054f-7d8e-419a-a7d9-847d74cc7e63",
+        "referrer_url": "https://search.hypersite.com?q=45905e15-9200-4205-917c-56bbcf717bbc",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/586.0 (KHTML, like Gecko) Chrome/94.0.4959.0 Safari/592.0",
+        "debug_info": "Page loaded in 0.56s, parsed with BeautifulSoup 4.4.3",
+        "geolocation": {
+          "latitude": "66.9324",
+          "longitude": "-76.0570"
+        },
+        "misc": {
+          "temp": "653cbb",
+          "promo_code": "CODE4859",
+          "encoding_issue": "caf\u00e9",
+          "internal_code": "E56E99A1",
+          "extra_info": "251c5cef93"
+        }
+      }
+    },
+    {
+      "policy": "Final sale items are non-returnable and non-refundable.",
+      "meta": {
+        "scraped_at": "2025-04-14T00:44:29.316237Z",
+        "scrape_timestamp": 1744580669,
+        "last_updated": "14-04-2025 00:44:29",
+        "source_url": "https://www.hypersite.com/e31167d2-3021-4327-9424-d89ba7df80e4",
+        "referrer_url": "https://search.hypersite.com?q=6dbfe154-be0c-46ea-8569-40124c8b5f44",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/515.0 (KHTML, like Gecko) Chrome/98.0.4028.0 Safari/580.0",
+        "debug_info": "Page loaded in 1.70s, parsed with BeautifulSoup 4.9.9",
+        "geolocation": {
+          "latitude": "47.6120",
+          "longitude": "-0.7472"
+        },
+        "misc": {
+          "temp": "bf1267",
+          "promo_code": "CODE8856",
+          "encoding_issue": "na\u00efve",
+          "internal_code": "27FCF9DA",
+          "extra_info": "4043638ee3"
+        }
+      }
+    },
+    {
+      "policy": "A receipt or proof of purchase is usually required for returns.",
+      "meta": {
+        "scraped_at": "2025-04-14T07:18:40.316457Z",
+        "scrape_timestamp": 1744604320,
+        "last_updated": "14-04-2025 07:18:40",
+        "source_url": "https://www.hypersite.com/da2d7e99-7585-4ff9-b62d-792800deb9e3",
+        "referrer_url": "https://search.hypersite.com?q=f06044a2-d7a5-4a43-b23d-657cd3a91e2d",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/502.0 (KHTML, like Gecko) Chrome/90.0.4489.0 Safari/570.0",
+        "debug_info": "Page loaded in 0.36s, parsed with BeautifulSoup 5.3.6",
+        "geolocation": {
+          "latitude": "-51.4593",
+          "longitude": "103.1723"
+        },
+        "misc": {
+          "temp": "70f9aa",
+          "promo_code": "CODE5036",
+          "encoding_issue": "na\u00efve",
+          "internal_code": "A9B093EB",
+          "extra_info": "af602f2ace"
+        }
+      }
+    },
+    {
+      "policy": "If you receive a damaged product, please contact our customer support team immediately.",
+      "meta": {
+        "scraped_at": "2025-04-14T04:17:32.316667Z",
+        "scrape_timestamp": 1744593452,
+        "last_updated": "14-04-2025 04:17:32",
+        "source_url": "https://www.hypersite.com/f6cf1216-7e36-40c7-8d3e-e587aa39426b",
+        "referrer_url": "https://search.hypersite.com?q=40317a85-2dd6-4bb8-85dd-aebcbc89d7b2",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.0 (KHTML, like Gecko) Chrome/91.0.4630.0 Safari/514.0",
+        "debug_info": "Page loaded in 1.68s, parsed with BeautifulSoup 5.7.9",
+        "geolocation": {
+          "latitude": "70.5424",
+          "longitude": "-78.4201"
+        },
+        "misc": {
+          "temp": "c00831",
+          "promo_code": "CODE8119",
+          "encoding_issue": "caf\u00e9",
+          "internal_code": "4109E328",
+          "extra_info": "3325bb8361"
+        }
+      }
+    },
+    {
+      "steps": [
+        "Go to the homepage and click on 'Sign Up'.",
+        "Enter your email address and choose a password.",
+        "Confirm your email through the verification link sent to your inbox.",
+        "Log in with your new credentials."
+      ],
+      "meta": {
+        "scraped_at": "2025-04-14T03:45:43.316866Z",
+        "scrape_timestamp": 1744591543,
+        "last_updated": "14-04-2025 03:45:43",
+        "source_url": "https://www.hypersite.com/66905254-db0d-4ad3-a31d-dbf051a15d8a",
+        "referrer_url": "https://search.hypersite.com?q=4a25b0ff-cbde-462c-a3ea-6dfc9579444a",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/559.0 (KHTML, like Gecko) Chrome/86.0.4946.0 Safari/586.0",
+        "debug_info": "Page loaded in 1.90s, parsed with BeautifulSoup 5.4.1",
+        "geolocation": {
+          "latitude": "-70.0575",
+          "longitude": "116.2887"
+        },
+        "misc": {
+          "temp": "9e49c5",
+          "promo_code": "CODE7435",
+          "encoding_issue": "na\u00efve",
+          "internal_code": "D10A4557",
+          "extra_info": "479955b350"
+        }
+      }
+    },
+    {
+      "steps": [
+        "Log into your account.",
+        "Navigate to 'My Orders'.",
+        "Click on the order you want to track.",
+        "You will see the tracking number and courier link."
+      ],
+      "meta": {
+        "scraped_at": "2025-04-13T10:57:51.317074Z",
+        "scrape_timestamp": 1744531071,
+        "last_updated": "13-04-2025 10:57:51",
+        "source_url": "https://www.hypersite.com/63d89c03-6149-4f52-b845-536eb6925fc6",
+        "referrer_url": "https://search.hypersite.com?q=327c37da-1798-4504-879d-3644a7e1ae1c",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/564.0 (KHTML, like Gecko) Chrome/99.0.4841.0 Safari/519.0",
+        "debug_info": "Page loaded in 0.97s, parsed with BeautifulSoup 4.1.2",
+        "geolocation": {
+          "latitude": "40.5654",
+          "longitude": "120.5956"
+        },
+        "misc": {
+          "temp": "bf73bb",
+          "promo_code": "CODE1986",
+          "encoding_issue": "caf\u00e9",
+          "internal_code": "C7F314AF",
+          "extra_info": "0f5763c099"
+        }
+      }
+    },
+    {
+      "steps": [
+        "Go to 'My Orders' in your account.",
+        "Find the item you want to return and click 'Return'.",
+        "Select a reason and preferred return method.",
+        "Print the return label and ship the item back."
+      ],
+      "meta": {
+        "scraped_at": "2025-04-13T18:39:55.317306Z",
+        "scrape_timestamp": 1744558795,
+        "last_updated": "13-04-2025 18:39:55",
+        "source_url": "https://www.hypersite.com/e216eef2-bf94-47d2-b2e8-aee624b50b9a",
+        "referrer_url": "https://search.hypersite.com?q=ab426a27-e49f-4735-858d-24047f2f347c",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/506.0 (KHTML, like Gecko) Chrome/80.0.4610.0 Safari/528.0",
+        "debug_info": "Page loaded in 1.53s, parsed with BeautifulSoup 4.10.1",
+        "geolocation": {
+          "latitude": "63.5821",
+          "longitude": "-151.8281"
+        },
+        "misc": {
+          "temp": "42df14",
+          "promo_code": "CODE4953",
+          "encoding_issue": "caf\u00e9",
+          "internal_code": "D467E1AE",
+          "extra_info": "c342083038"
+        }
+      }
+    },
+    {
+      "policy": "Refunds will be issued to the original payment method after inspection.",
+      "meta": {
+        "scraped_at": "2025-04-14T07:03:58.317509Z",
+        "scrape_timestamp": 1744603438,
+        "last_updated": "14-04-2025 07:03:58",
+        "source_url": "https://www.hypersite.com/eb73ed3a-e011-4149-808f-300dbf4ec492",
+        "referrer_url": "https://search.hypersite.com?q=4fb95839-d2b1-4cbf-9bfe-459d0624d897",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/505.0 (KHTML, like Gecko) Chrome/93.0.4155.0 Safari/549.0",
+        "debug_info": "Page loaded in 1.61s, parsed with BeautifulSoup 4.10.1",
+        "geolocation": {
+          "latitude": "-50.1362",
+          "longitude": "-75.2808"
+        },
+        "misc": {
+          "temp": "9fd1d4",
+          "promo_code": "CODE5257",
+          "encoding_issue": "caf\u00e9",
+          "internal_code": "2516656A",
+          "extra_info": "bc1adadc44"
+        }
+      }
+    },
+    {
+      "policy": "Return shipping costs may be deducted from your refund unless the item was defective.",
+      "meta": {
+        "scraped_at": "2025-04-14T08:22:54.317712Z",
+        "scrape_timestamp": 1744608174,
+        "last_updated": "14-04-2025 08:22:54",
+        "source_url": "https://www.hypersite.com/243f6d72-91a0-4a81-a981-c7b0f0e35512",
+        "referrer_url": "https://search.hypersite.com?q=3da2a0b0-b391-4d04-a0af-77deeed0887a",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/85.0.4590.0 Safari/519.0",
+        "debug_info": "Page loaded in 1.66s, parsed with BeautifulSoup 5.1.7",
+        "geolocation": {
+          "latitude": "77.7006",
+          "longitude": "59.4455"
+        },
+        "misc": {
+          "temp": "6240f6",
+          "promo_code": "CODE6275",
+          "encoding_issue": "na\u00efve",
+          "internal_code": "47A2806E",
+          "extra_info": "4a4d822d47"
+        }
+      }
+    },
+    {
+      "policy": "Digital products and downloadable content are non-returnable.",
+      "meta": {
+        "scraped_at": "2025-04-13T10:42:00.317901Z",
+        "scrape_timestamp": 1744530120,
+        "last_updated": "13-04-2025 10:42:00",
+        "source_url": "https://www.hypersite.com/53d750d7-3aff-42c3-875b-0f00d31111b2",
+        "referrer_url": "https://search.hypersite.com?q=4457c666-dc86-4c72-90f6-dbe67ce4e9fc",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/516.0 (KHTML, like Gecko) Chrome/82.0.4795.0 Safari/506.0",
+        "debug_info": "Page loaded in 1.60s, parsed with BeautifulSoup 5.7.2",
+        "geolocation": {
+          "latitude": "-9.1737",
+          "longitude": "82.7721"
+        },
+        "misc": {
+          "temp": "0c23a6",
+          "promo_code": "CODE2113",
+          "encoding_issue": "r\u00e9sum\u00e9",
+          "internal_code": "6195B8D1",
+          "extra_info": "c4f05eef23"
+        }
+      }
+    },
+    {
+      "policy": "Some items may be subject to a restocking fee upon return.",
+      "meta": {
+        "scraped_at": "2025-04-14T05:51:08.318084Z",
+        "scrape_timestamp": 1744599068,
+        "last_updated": "14-04-2025 05:51:08",
+        "source_url": "https://www.hypersite.com/9b3bb88b-e271-4d9c-865d-186514852819",
+        "referrer_url": "https://search.hypersite.com?q=820ae127-e91d-412f-a494-99578e0ce99d",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/558.0 (KHTML, like Gecko) Chrome/96.0.4944.0 Safari/543.0",
+        "debug_info": "Page loaded in 1.95s, parsed with BeautifulSoup 5.6.4",
+        "geolocation": {
+          "latitude": "-83.7725",
+          "longitude": "122.2744"
+        },
+        "misc": {
+          "temp": "aa6875",
+          "promo_code": "CODE4354",
+          "encoding_issue": "na\u00efve",
+          "internal_code": "5748955A",
+          "extra_info": "974392204b"
+        }
+      }
+    },
+    {
+      "policy": "Gift cards are not eligible for return or refund.",
+      "meta": {
+        "scraped_at": "2025-04-13T20:25:04.318260Z",
+        "scrape_timestamp": 1744565104,
+        "last_updated": "13-04-2025 20:25:04",
+        "source_url": "https://www.hypersite.com/fc4aafa8-3c15-4a70-92e4-98984080e0d0",
+        "referrer_url": "https://search.hypersite.com?q=e23d7004-ed9c-4bfe-b00f-66c0425407ca",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/511.0 (KHTML, like Gecko) Chrome/96.0.4208.0 Safari/571.0",
+        "debug_info": "Page loaded in 1.03s, parsed with BeautifulSoup 4.2.1",
+        "geolocation": {
+          "latitude": "45.4574",
+          "longitude": "-71.0763"
+        },
+        "misc": {
+          "temp": "62fb06",
+          "promo_code": "CODE1752",
+          "encoding_issue": "na\u00efve",
+          "internal_code": "9D2D7BAB",
+          "extra_info": "861f780f0d"
+        }
+      }
+    },
+    {
+      "policy": "Refunds will typically be issued to the original payment method used for the purchase.",
+      "meta": {
+        "scraped_at": "2025-04-14T09:36:26.318418Z",
+        "scrape_timestamp": 1744612586,
+        "last_updated": "14-04-2025 09:36:26",
+        "source_url": "https://www.hypersite.com/802c0b78-2917-4f59-b234-85dc967e3c27",
+        "referrer_url": "https://search.hypersite.com?q=065467cd-32ab-42bd-8dcd-59bd783b0fd3",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/592.0 (KHTML, like Gecko) Chrome/100.0.4211.0 Safari/509.0",
+        "debug_info": "Page loaded in 0.99s, parsed with BeautifulSoup 4.10.3",
+        "geolocation": {
+          "latitude": "-55.4568",
+          "longitude": "-37.1695"
+        },
+        "misc": {
+          "temp": "cd3be0",
+          "promo_code": "CODE5952",
+          "encoding_issue": "na\u00efve",
+          "internal_code": "BE707BE5",
+          "extra_info": "83f5ca8d77"
+        }
+      }
+    }]
+}

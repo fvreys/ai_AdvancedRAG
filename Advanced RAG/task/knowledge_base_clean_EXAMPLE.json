@@ -1,0 +1,40 @@
+{
+  "knowledge-base": [
+    {
+      "question": "How can I create an account?",
+      "answer": "To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process."
+    },
+    {
+      "policy": "You can return products within 30 days of purchase for a full refund, provided they are in their original condition and packaging."
+    },
+    {
+		  "how-to": [
+		    "Log into your account.",
+		    "Navigate to 'My Orders'.",
+		    "Click on the order you want to track.",
+		    "You will see the tracking number and courier link."
+		  ]
+		},
+    {
+      "policy": "The availability and shipping costs will be calculated during the checkout process based on your location."
+    },
+    
+   # ... other records
+    
+    {
+      "question": "Can I return a product if it was purchased during a promotional event?",
+      "answer": "Yes, you can return a product purchased during a promotional event. The refund will be processed based on the amount paid after any applicable discounts."
+    },
+    {
+		  "how-to": [
+		    "Navigate to your account dashboard.",
+		    "Click on 'Set Up Two-Factor Authentication'.",
+		    "Follow the instructions on the screen to proceed.",
+		    "Confirm your changes and save."
+		  ]
+		},
+    {
+      "support": "We offer live chat support on our website during our business hours."
+    }
+  ]
+}
