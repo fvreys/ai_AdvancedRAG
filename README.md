@@ -1,9 +1,8 @@
-In this project, you will discover methods that can be integrated at various steps of the RAG pipeline. 
-You'll explore techniques like query rewriting, hypothetical embeddings, and context re-ranking—each designed to guarantee that your RAG application delivers responses that are both relevant and of high quality.
+We use techniques like query rewriting, hypothetical embeddings, and context re-ranking—each designed to guarantee that the RAG application delivers responses that are both relevant and of high quality.
 
 Integrating retrieval-augmented generation into LLM applications is key to enhancing response quality. 
 While basic RAG methods provide a solid base, they might not always achieve the superior quality you desire. 
-This project presents a range of advanced techniques applicable at various stages of the RAG pipeline to elevate your system's output.
+In this project we find a range of advanced techniques applicable at various stages of the RAG pipeline to elevate the RAG's output.
 
 STAGES
 1. Apply various data cleaning and improvement techniques to enhance your dataset.
